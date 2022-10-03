@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>OpenSourceGISData</title>
+        <!-- Favicon-->
+        <link rel="icon" href="assets/planeticon.png" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <!-- Responsive navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <a class="navbar-brand" href="./index.html">Open Source GIS Data</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="./index.html">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="./about.html">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="./contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page content-->
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-8">
+                    <!-- Post content-->
+                    <article>
+                        <!-- Post header-->
+                        <header class="mb-4">
+                            <!-- Post title-->
+                            <h1 class="fw-bolder mb-1">NOAA Emergency Response Storm Imagery</h1>
+                            <!-- Post meta content-->
+                            <div class="text-muted fst-italic mb-2">Posted on October 2, 2022</div>
+                            <!-- Post categories-->
+                            <a class="badge bg-secondary text-decoration-none link-light" href="#!">US National Sources</a>
+                            <a class="badge bg-secondary text-decoration-none link-light" href="#!"></a>
+                        </header>
+                        <!-- Preview image figure-->
+                        <figure class="mb-4"><img class="img-fluid rounded" src="./assets/noaa-ngs-rsd-emergency-response-image.jpg" alt="aerial imagery extents over southwest florida 2022" /></figure>
+                        <!-- Post content-->
+                        <section class="mb-5">
+                            <h2 class="fw-bolder mb-4 mt-5">Who collected the data?</h2>
+                            <p class="fs-5 mb-4">
+                                This imagery was collected by NOAA's NGS (National Geodetic Survey) <a href="https://www.ngs.noaa.gov/RSD/rsd_home.shtml" target="_blank">RSD (Remote Sensing Division)</a>. 
+                                To meet NOAA's homeland security and emergency response requirements the RSD collects imagery over areas affected by major weather events with emergency declarations. 
+                                This data is acquired rapidly and distributed to federal, state and local governments and is openly available to the general public.
+                            </p>
+                            <div class="card">
+                                <div class="card-body">
+                                    <blockquote class="blockquote mb-0">
+                                        <p  class="fs-5 mb-4">
+                                            "On September 29, the National Geodetic Survey (NGS) began collecting aerial damage assessment images in the aftermath of Hurricane Ian. 
+                                            Imagery is being collected in specific areas by NOAA aircraft, identified by NOAA in coordination with FEMA and other state and federal partners."
+                                        </p>
+                                        <footer class="blockquote-footer"><cite title="Source Title"><a href="https://oceanservice.noaa.gov/news/sep22/ngs-storm-imagery-ian.html" target="_blank">NOAA</a></cite></footer>
+                                    </blockquote>
+                                </div>
+                            </div>
+                            <h2 class="fw-bolder mb-4 mt-5">Why is the data important?</h2>
+                            <p class="fs-5 mb-4">
+                                Aerial imagery can be expensive to collect and process over large areas and in emergency response situations it can be critical in making decisions.
+                                Having a federal agency be able to quickly collect, process and desseminate this critical data makes rescue response decision making more informed. 
+                            </p>
+                            <div class="card">
+                                <div class="card-body">
+                                    <blockquote class="blockquote mb-0">
+                                        <p  class="fs-5 mb-4">
+                                            "NOAA's aerial imagery aids safe navigation and captures damage to coastal areas caused by a storm. 
+                                            Aerial imagery is a crucial tool to determine the extent of the damage inflicted by flooding, and to compare baseline coastal areas to assess the damage to major ports and waterways, coastlines, critical infrastructure, and coastal communities. 
+                                            This imagery provides a cost-effective way to better understand the damage sustained to both property and the environment."
+                                        </p>
+                                        <footer class="blockquote-footer"><cite title="Source Title"><a href="https://oceanservice.noaa.gov/news/sep22/ngs-storm-imagery-ian.html" target="_blank">NOAA</a></cite></footer>
+                                    </blockquote>
+                                </div>
+                            </div>
+                            <h2 class="fw-bolder mb-4 mt-5">How to access the data</h2>
+                            <p class="fs-5 mb-4"><a href="https://storms.ngs.noaa.gov/" target="_blank">https://storms.ngs.noaa.gov/</a></p>
+                            <p class="fs-5 mb-4">
+                                This link will take you to the index page with all of the <a href="https://storms.ngs.noaa.gov/" target="_blank">Emergency Response Imagery</a> links going back to 2003.
+                                The imagery can be viewed online with two different basemap options being MapBox Streets or MapBox Satelite to examine what areas looked like before the listed event.
+                                The data is also available for download with a "Download" button on the top menu bar.
+                                It is also possible to connect your own GIS to the data source via WMTS (Web Map Tile Service) by clicking "About" then "Web Services" for the link.
+                            </p>
+                            <h2 class="fw-bolder mb-4 mt-5">Analyzing imagery from the Hurricane Ian 2022</h2>
+                            <p class="fs-5 mb-4">
+                                Hurricane Ian hit southwest Florida in late September 2022.
+                                Using the <a href="https://storms.ngs.noaa.gov/storms/ian/index.html#9/26.4200/-81.9700" target="_blank">online viewer</a> for Hurrican Ian aerial imagery we will look at some images of before and after the storm.
+                            </p>
+                            <figure class="mb-4"><img class="img-fluid rounded" src="./assets/noaa-ngs-rsd-emergency-response-img-marina.jpg" alt="aerial imagery of a fort myers marina before the hurricane ian" />
+                            <p class="fs-6 mb-4" style="text-align: center;">A marina in Matanzas Pass in the Fort Myers area before hurricane Ian 2022.</p>
+                            </figure>
+                            <figure class="mb-4"><img class="img-fluid rounded" src="./assets/noaa-ngs-rsd-emergency-response-img-marina-after.jpg" alt="aerial imagery of a fort myers marina after the hurricane ian" />
+                                <p class="fs-6 mb-4" style="text-align: center;">The same marina in Matanzas Pass after hurricane Ian 2022 showing destroyed docks and piled up boats.</p>
+                            </figure>
+                            <p class="fs-5 mb-4">
+                                We can clearly see massive damage to the marina and the boats that are docked there. 
+                                It is also worth noting that the the dock and boats have been pushed up onto the mangrove forest to the right causing environmental damage.
+                            </p>
+                            <figure class="mb-4"><img class="img-fluid rounded" src="./assets/noaa-ngs-rsd-emergency-response-img-rv-park-before.jpg" alt="aerial imagery of a fort myers rv park before the hurricane ian" />
+                                <p class="fs-6 mb-4" style="text-align: center;">A RV/Mobile home park in the Fort Myers Beach area before hurricane Ian 2022.</p>
+                            </figure>
+                            <figure class="mb-4"><img class="img-fluid rounded" src="./assets/noaa-ngs-rsd-emergency-response-img-rv-park-after.jpg" alt="aerial imagery of a fort myers rv park after the hurricane ian" />
+                                <p class="fs-6 mb-4" style="text-align: center;">The same RV/Mobile home park after hurricane Ian 2022 showing extensive property damage.</p>
+                            </figure>
+                            <p class="fs-5 mb-4">
+                                Looking at this image you can cleary tell that just about every single building was washed away and destroyed within this mobile home and rv park. 
+                                Thoughts and prayers go out to everyone that called this place home and we can only hope that they were able to evacuate to somewhere safer to wait out the storm. 
+                            </p>
+                            <figure class="mb-4"><img class="img-fluid rounded" src="./assets/noaa-ngs-rsd-emergency-response-img-placida-before.jpg" alt="aerial imagery of a placida residential area before the hurricane ian" />
+                                <p class="fs-6 mb-4" style="text-align: center;">A residential area in Placida before hurricane Ian 2022.</p>
+                            </figure>
+                            <figure class="mb-4"><img class="img-fluid rounded" src="./assets/noaa-ngs-rsd-emergency-response-img-placida-after.jpg" alt="aerial imagery of a placida residential area after the hurricane ian" />
+                                <p class="fs-6 mb-4" style="text-align: center;">The same residential area in Placida after hurricane Ian 2022 showing property damage.</p>
+                            </figure>
+                            <p class="fs-5 mb-4">
+                                A quick glance shows that about about fifty to sixty percent of the houses sustained some damages while another twenty to thirty percent seem to be completely destroyed. 
+                                It is no surprise that all of these coastal areas hit directly by the storm were damaged severly. 
+                                There are no official figures yet but it is looking like Ian may be one of the worst hurricanes in history in terms of property damage costs. 
+                            </p>
+                        </section>
+                    </article>
+                </div>
+                <!-- Side widgets-->
+                <div class="col-lg-4">
+                    <!-- Categories widget-->
+                    <div class="card mb-4">
+                        <div class="card-header">Categories</div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled mb-0">
+                                        <li><a href="#!">State Sources</a></li>
+                                        <li><a href="#!">US National Sources</a></li>
+                                        <li><a href="#!">QGIS</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled mb-0">
+                                        <li><a href="#!"></a></li>
+                                        <li><a href="#!">Resources</a></li>
+                                        <li><a href="#!">Tutorials</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Side widget-->
+                    <div class="card mb-4">
+                        <div class="card-header">Resources from this article</div>
+                        <div class="card-body">
+                            <a href="https://storms.ngs.noaa.gov/" target="_blank">https://storms.ngs.noaa.gov/</a>
+                            <br>
+                            <a href="https://storms.ngs.noaa.gov/storms/ian/index.html#9/26.4200/-81.9700" target="_blank">Hurricane Ian Imagery</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Footer-->
+        <footer class="py-5 bg-dark">
+            <div class="container"><p class="m-0 text-center text-white">Copyright &copy; Open Source GIS Data 2022</p></div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
