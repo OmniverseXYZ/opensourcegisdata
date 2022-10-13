@@ -9,28 +9,288 @@
 
 <url>
   <loc>http://opensourcegisdata.com/</loc>
-  <lastmod>2022-10-03T15:46:04+00:00</lastmod>
+  <lastmod>2022-10-13T19:22:32+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://opensourcegisdata.com/index.html</loc>
-  <lastmod>2022-10-03T15:46:04+00:00</lastmod>
+  <lastmod>2022-10-13T19:22:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://opensourcegisdata.com/about.html</loc>
-  <lastmod>2022-10-03T15:46:02+00:00</lastmod>
+  <lastmod>2022-10-13T18:25:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://opensourcegisdata.com/contact.html</loc>
-  <lastmod>2022-10-03T15:46:03+00:00</lastmod>
+  <lastmod>2022-10-13T18:25:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/index.html</loc>
+  <lastmod>2022-10-13T18:25:27+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://opensourcegisdata.com/noaa-emergency-response-storm-imagery.html</loc>
-  <lastmod>2022-10-03T21:17:07+00:00</lastmod>
+  <lastmod>2022-10-13T18:25:26+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/alabama.html</loc>
+  <lastmod>2022-10-13T18:25:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/alaska.html</loc>
+  <lastmod>2022-10-13T18:25:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/arizona.html</loc>
+  <lastmod>2022-10-13T18:25:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/arkansas.html</loc>
+  <lastmod>2022-10-13T18:25:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/california.html</loc>
+  <lastmod>2022-10-13T18:25:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/colorado.html</loc>
+  <lastmod>2022-10-13T18:25:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/connecticut.html</loc>
+  <lastmod>2022-10-13T18:25:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/delaware.html</loc>
+  <lastmod>2022-10-13T18:25:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/dc.html</loc>
+  <lastmod>2022-10-13T18:25:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/florida.html</loc>
+  <lastmod>2022-10-13T18:25:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/georgia.html</loc>
+  <lastmod>2022-10-13T18:25:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/hawaii.html</loc>
+  <lastmod>2022-10-13T18:25:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/idaho.html</loc>
+  <lastmod>2022-10-13T18:25:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/illinois.html</loc>
+  <lastmod>2022-10-13T18:25:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/indiana.html</loc>
+  <lastmod>2022-10-13T18:25:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/iowa.html</loc>
+  <lastmod>2022-10-13T18:25:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/kansas.html</loc>
+  <lastmod>2022-10-13T18:25:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/kentucky.html</loc>
+  <lastmod>2022-10-13T18:25:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/louisiana.html</loc>
+  <lastmod>2022-10-13T19:04:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/maine.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/maryland.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/massachusetts.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/michigan.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/minnesota.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/mississippi.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/missouri.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/montana.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/nebraska.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/nevada.html</loc>
+  <lastmod>2022-10-13T18:25:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/new-hampshire.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/new-jersey.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/new-mexico.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/new-york.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/north-carolina.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/north-dakota.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/ohio.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/oklahoma.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/oregon.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/pennsylvania.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/rhode-island.html</loc>
+  <lastmod>2022-10-13T18:25:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/south-carolina.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/south-dakota.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/tennessee.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/texas.html</loc>
+  <lastmod>2022-10-13T19:04:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/utah.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/vermont.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/virginia.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/washington.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/west-virginia.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/wisconsin.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://opensourcegisdata.com/state/wyoming.html</loc>
+  <lastmod>2022-10-13T18:25:30+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
