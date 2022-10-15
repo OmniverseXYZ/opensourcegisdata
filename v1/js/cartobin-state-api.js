@@ -3,7 +3,7 @@
 
 // HOW TO USE:
 // <div id="restServices"></div>
-// <script src="js/cartobin-api.js" reqState=""></script>
+// <script src="js/cartobin-state-api.js" reqState=""></script>
 
 // concatenate api request url from state html page
 var reqState = document.currentScript.getAttribute("reqState");
