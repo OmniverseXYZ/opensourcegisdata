@@ -62,3 +62,7 @@ def replace_state_menus():
     """
 
     find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v1/state", old_state_menu, new_state_menu)
+
+def link_update():
+    find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v1", '="http', '="https')
+    find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v1", '="httpss', '="https')
