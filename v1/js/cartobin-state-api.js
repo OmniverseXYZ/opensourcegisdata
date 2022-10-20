@@ -49,8 +49,9 @@ function appendData(data) {
             // create nested a element
             var a = document.createElement('a');
             a.className = 'btn btn-primary';
-            a.setAttribute('href', data.servers[i]["server_url"])
-            a.setAttribute('target', "_blank")
+            a.setAttribute('href', data.servers[i]["server_url"]);
+            a.setAttribute('target', "_blank");
+            a.setAttribute('rel', 'nofollow noopener');
             div2.appendChild(a);
 
             // render content inside of created elements
