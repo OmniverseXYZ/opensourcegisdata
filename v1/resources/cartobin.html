@@ -14,7 +14,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>OpenSourceGISData</title>
+        <title>Cartobin GIS Servers</title>
         <!-- Favicon-->
         <link rel="icon" href="assets/planeticon.png" />
         <!-- Core theme CSS (includes Bootstrap)-->
@@ -44,21 +44,37 @@
                         <!-- Post header-->
                         <header class="mb-4">
                             <!-- Post title-->
-                            <h1 class="fw-bolder mb-1">Welcome to Blog Post!</h1>
+                            <h1 class="fw-bolder mb-1">Cartobin GIS Servers Web App</h1>
                             <!-- Post meta content-->
-                            <div class="text-muted fst-italic mb-2">Posted on January 1, 2022 by Start Bootstrap</div>
+                            <div class="text-muted fst-italic mb-2">Posted on October 21, 2022</div>
                             <!-- Post categories-->
-                            <a class="badge bg-secondary text-decoration-none link-light" href="#!"></a>
+                            <a class="badge bg-secondary text-decoration-none link-light" href="./index.html">Resources</a>
                             <a class="badge bg-secondary text-decoration-none link-light" href="#!"></a>
                         </header>
                         <!-- Preview image figure-->
-                        <figure class="mb-4"><img class="img-fluid rounded" src="https://servers.cartobin.com/image.webp" alt="..." /></figure>
+                        <figure class="mb-4"><img class="img-fluid rounded" src="https://servers.cartobin.com/image.webp" alt="map of the united states with pins in it" /></figure>
                         <!-- Post content-->
                         <section class="mb-5">
-                            <p class="fs-5 mb-4"></p>
-                            <h2 class="fw-bolder mb-4 mt-5"></h2>
-                            <p class="fs-5 mb-4"></p>
-                            <p class="fs-5 mb-4"></p>
+                            <h2 class="fw-bolder mb-4 mt-5">What is Cartobin?</h2>
+                            <p class="fs-5 mb-4">Cartobin is a web application developed by Ben Millard. 
+                                He was inspired to create the application by Jeff from mappingsupport.com who created and maintains a very large list of GIS rest servers.
+                                The application provides an interface to interact with the list by creating pages for the different categories. 
+                                There is a State category, a category US Federal sources and another category for miscellaneous sources.
+                            </p>
+                            <h2 class="fw-bolder mb-4 mt-5">Special Thanks to Ben</h2>
+                            <p class="fs-5 mb-4">I want to give a special thanks to Ben Millard for creating this application and the API that serves the data.
+                                After posting on Reddit about the Open Source GIS Data State Index he reached out giving me permission to use the API. 
+                                I was able to create a short vanilla javascipt script that fetches data from his API and displays it on the <a href="../state/index.html">state pages.</a> 
+                                This allowed me to easily add hundreds of GIS rest servers to the website for every single state.
+                            </p>
+                            <h2 class="fw-bolder mb-4 mt-5">Plans for the future</h2>
+                            <p class="fs-5 mb-4">At the time of posting this article I have not yet integrated the Federal data sources from the API in the website.
+                                My next course of action is to add the federal sources and the other miscellaneous sources. 
+                                All of the sources from the API and the list are GIS rest servers. 
+                                The initial sources published on this website were Geo Portals or geospatial data search engines for different organizations within states. 
+                                The plan is to integrate the API for the rest servers and continue to add Geo Portals and other miscellaneous sources that are not just rest servers.
+                                Beyond just finding and adding sources I will create content around some of the most useful and interesting resources that are recommended to me or that I find.
+                            </p>
                             
                         </section>
                     </article>
@@ -74,11 +90,12 @@
                                     <ul class="list-unstyled mb-0">
                                         <li><a href="../state/index.html">US Sources</a></li>
                                         <li><a href="../us-federal/index.html">US Federal Sources</a></li>
-                                        <li><a href="../software/index.html">Software</a></li>
+                                        <li><a href="../international/index.html">International</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-6">
                                     <ul class="list-unstyled mb-0">
+                                        <li><a href="../software/index.html">Software</a></li>
                                         <li><a href="./index.html">Resources</a></li>
                                         <li><a href="../tutorials/index.html">Tutorials</a></li>
                                     </ul>
@@ -88,8 +105,10 @@
                     </div>
                     <!-- Side widget-->
                     <div class="card mb-4">
-                        <div class="card-header">Side Widget</div>
-                        <div class="card-body">You can put anything you want inside of these side widgets. They are easy to use, and feature the Bootstrap 5 card component!</div>
+                        <div class="card-header">Resources from this article</div>
+                        <div class="card-body"><a href="https://servers.cartobin.com/" target="_blank" rel="noopener">Cartobin App</a></div>
+                        <div class="card-body"><a href="https://mappingsupport.com/" target="_blank" rel="noopener">mappingsupport.com</a></div>
+                        <div class="card-body"><a href="../state/index.html" >US Sources</a></div>
                     </div>
                 </div>
             </div>
