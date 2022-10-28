@@ -1,0 +1,446 @@
+{
+   "Alaska": [
+      {
+         "ST_GEO_PORTAL_URL": "https://gis.data.alaska.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://data-soa-dnr.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.geonorthis.com/AGCServices"
+      }
+   ],
+   "Alabama": [
+      {
+         "ST_GEO_PORTAL_URL": "https://data-algeohub.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://algeohub.maps.arcgis.com/home/index.html"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.gsa.state.al.us/gsa/geologic/geospatial"
+      }
+   ],
+   "Arkansas": [
+      {
+         "ST_GEO_PORTAL_URL": "https://gis.arkansas.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.ardot.gov/divisions/transportation-planning-policy/gis-mapping/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://uark.libguides.com/gis/gisdata"
+      }
+   ],
+   "Arizona": [
+      {
+         "ST_GEO_PORTAL_URL": "https://azgeo-data-hub-agic.hub.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://data.library.arizona.edu/geo/geoportal"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://agic.az.gov/agic/geospatial-data-collections-and-resources"
+      }
+   ],
+   "California": [
+      {
+         "ST_GEO_PORTAL_URL": "https://gis.data.ca.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://libguides.humboldt.edu/c.php?g=303789&p=2026238"
+      }
+   ],
+   "Colorado": [
+      {
+         "ST_GEO_PORTAL_URL": "https://gis.colorado.gov/confluence/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://cdss.colorado.gov/gis-data"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://coloradogeologicalsurvey.org/gis-data-map-portal/"
+      }
+   ],
+   "Connecticut": [
+      {
+         "ST_GEO_PORTAL_URL": "https://portal.ct.gov/DEEP/GIS-and-Maps/Maps/Maps-and-GIS-Data"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://connecticut-ctdot.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://cteco.uconn.edu/"
+      }
+   ],
+   "Delaware ": [
+      {
+         "ST_GEO_PORTAL_URL": "https://opendata.firstmap.delaware.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.dgs.udel.edu/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://de.gov/topics/data.shtml"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.co.delaware.in.us/department/index.php?structureid=16"
+      }
+   ],
+   "Florida": [
+      {
+         "ST_GEO_PORTAL_URL": "https://geodata.floridagio.gov/"
+      }
+   ],
+   "Georgia": [
+      {
+         "ST_GEO_PORTAL_URL": "https://data-hub.gio.georgia.gov/"
+      }
+   ],
+   "Hawaii": [
+      {
+         "ST_GEO_PORTAL_URL": "https://geoportal.hawaii.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://planning.hawaii.gov/gis/download-gis-data-expanded/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "http://gis.ctahr.hawaii.edu/"
+      }
+   ],
+   "Iowa": [
+      {
+         "ST_GEO_PORTAL_URL": "https://geodata.iowa.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://ortho.gis.iastate.edu/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://data.iowadot.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://guides.lib.uiowa.edu/c.php?g=132116&p=862462"
+      }
+   ],
+   "Idaho": [
+      {
+         "ST_GEO_PORTAL_URL": "https://gis-idaho.hub.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.isu.edu/geosciences/dml/data/"
+      }
+   ],
+   "Illinois": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.gis2gps.com/GIS/illcounties/illcounties.html"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://isgs.illinois.edu/maps/gis"
+      }
+   ],
+   "Indiana": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.indianamap.org/"
+      }
+   ],
+   "Kansas": [
+      {
+         "ST_GEO_PORTAL_URL": "https://hub.kansasgis.org/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.kgs.ku.edu/"
+      }
+   ],
+   "Kentucky": [
+      {
+         "ST_GEO_PORTAL_URL": "https://kygeoportal.ky.gov/geoportal/catalog/search/browse/browse.page"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://opengisdata.ky.gov/"
+      }
+   ],
+   "Louisiana": [
+      {
+         "ST_GEO_PORTAL_URL": "https://atlas.geoportalmaps.com/"
+      }
+   ],
+   "Massachusetts": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.mass.gov/info-details/massgis-data-layers"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://libguides.mit.edu/gis/mass"
+      }
+   ],
+   "Maryland": [
+      {
+         "ST_GEO_PORTAL_URL": "https://data.imap.maryland.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://data-maryland.opendata.arcgis.com/pages/mdot"
+      }
+   ],
+   "Maine": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.maine.gov/megis/maps/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.maine.gov/geolib/catalog.html"
+      }
+   ],
+   "Michigan": [
+      {
+         "ST_GEO_PORTAL_URL": "https://gis-michigan.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://libguides.lib.msu.edu/c.php?g=356116&p=2402194"
+      }
+   ],
+   "Minnesota": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.mngeo.state.mn.us/chouse/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://gisdata.mn.gov/"
+      }
+   ],
+   "Missouri": [
+      {
+         "ST_GEO_PORTAL_URL": "https://data-msdis.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.msdis.missouri.edu/data/index.html"
+      }
+   ],
+   "Mississippi": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.gis.ms.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.maris.state.ms.us/#gsc.tab=0"
+      }
+   ],
+   "Montana": [
+      {
+         "ST_GEO_PORTAL_URL": "https://msl.mt.gov/geoinfo/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://gis-mdt.opendata.arcgis.com/"
+      }
+   ],
+   "North Carolina": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.nconemap.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.lib.ncsu.edu/gis/counties.html"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.nconemap.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://ncdot.maps.arcgis.com/home/index.html"
+      }
+   ],
+   "North Dakota": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.gis.nd.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://gishubdata-ndgov.hub.arcgis.com/"
+      }
+   ],
+   "Nebraska": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.nebraskamap.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://deqmaps.nebraska.gov/deqmapportal/nebraskaMapPortal.html"
+      }
+   ],
+   "New Hampshire": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.nhgeodata.unh.edu/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.nh.gov/osi/planning/services/gis/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://nh-department-of-environmental-services-open-data-nhdes.hub.arcgis.com/"
+      }
+   ],
+   "New Jersey": [
+      {
+         "ST_GEO_PORTAL_URL": "https://njogis-newjersey.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://njgin.nj.gov/#!/"
+      }
+   ],
+   "New Mexico": [
+      {
+         "ST_GEO_PORTAL_URL": "https://data-nmenv.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.nmstatelands.org/maps-gis/interactive-maps/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://rgis.unm.edu/"
+      }
+   ],
+   "Nevada": [
+      {
+         "ST_GEO_PORTAL_URL": "http://lands.nv.gov/gis-mapping-data"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://guides.library.unr.edu/c.php?g=185506&p=1225301"
+      }
+   ],
+   "New York": [
+      {
+         "ST_GEO_PORTAL_URL": "https://gis.ny.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "http://maps.nyc.gov/doitt/nycitymap/"
+      }
+   ],
+   "Ohio": [
+      {
+         "ST_GEO_PORTAL_URL": "https://ogrip-geohio.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://das.ohio.gov/technology-and-strategy/OGRIP"
+      }
+   ],
+   "Oklahoma": [
+      {
+         "ST_GEO_PORTAL_URL": "https://okmaps.org/OGI/search.aspx"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://clo.maps.arcgis.com/apps/webappviewer/index.html?id=abe2290e8407433ead313bef01c82730"
+      }
+   ],
+   "Oregon": [
+      {
+         "ST_GEO_PORTAL_URL": "https://spatialdata.oregonexplorer.info/geoportal/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://geo.maps.arcgis.com/home/index.html"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://gbp-blm-egis.hub.arcgis.com/pages/oregon"
+      }
+   ],
+   "Pennsylvania": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.pasda.psu.edu/"
+      }
+   ],
+   "Pennsyvania": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.dep.pa.gov/DataandTools/Pages/GIS.aspx"
+      }
+   ],
+   "Rhode Island": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.rigis.org/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://risegis.ri.gov/portal/home/"
+      }
+   ],
+   "South Carolina": [
+      {
+         "ST_GEO_PORTAL_URL": "https://data-scdnr.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.dnr.sc.gov/gis.html"
+      }
+   ],
+   "South Dakota": [
+      {
+         "ST_GEO_PORTAL_URL": "https://opendata2017-09-18t192802468z-sdbit.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.sdgs.usd.edu/digitaldata/default.aspx"
+      }
+   ],
+   "Tennessee": [
+      {
+         "ST_GEO_PORTAL_URL": "https://tnmap.tn.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://libguides.utk.edu/tngis/open"
+      }
+   ],
+   "Texas": [
+      {
+         "ST_GEO_PORTAL_URL": "https://data.texas.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://gis-txdot.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://guides.lib.utexas.edu/gis/texas-geodata-portal"
+      }
+   ],
+   "Utah": [
+      {
+         "ST_GEO_PORTAL_URL": "https://utah.maps.arcgis.com/home/index.html"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://gis.utah.gov/"
+      }
+   ],
+   "Virginia": [
+      {
+         "ST_GEO_PORTAL_URL": "https://vgin.vdem.virginia.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://data.virginia.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://vgin.maps.arcgis.com/home/index.html"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://vgin.vdem.virginia.gov/apps/VGIN::virginia-department-of-emergency-management-geospatial-portal/about"
+      }
+   ],
+   "Vermont": [
+      {
+         "ST_GEO_PORTAL_URL": "https://geodata.vermont.gov/"
+      }
+   ],
+   "Washington": [
+      {
+         "ST_GEO_PORTAL_URL": "https://geo.wa.gov/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://gisdata-wsdot.opendata.arcgis.com/"
+      }
+   ],
+   "Wisconsin": [
+      {
+         "ST_GEO_PORTAL_URL": "https://data-wi-dnr.opendata.arcgis.com/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://geodata.wisc.edu/"
+      }
+   ],
+   "West Virginia": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.mapwv.gov/gis.html"
+      }
+   ],
+   "Wyoming": [
+      {
+         "ST_GEO_PORTAL_URL": "https://www.nrcs.usda.gov/wps/portal/nrcs/main/wy/technical/dma/gis/"
+      },
+      {
+         "ST_GEO_PORTAL_URL": "https://www.wsgs.wyo.gov/pubs-maps/gis"
+      }
+   ]
+}

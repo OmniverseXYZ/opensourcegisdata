@@ -14,6 +14,13 @@ def find_replace(path, find, replace):
         text = text.replace(find, replace)
         p.write_text(text)
 
+def find_replace_json(path, find, replace):
+    for p in pathlib.Path(path).rglob("*.json"):
+        print(p)
+        text = p.read_text()
+        text = text.replace(find, replace)
+        p.write_text(text)
+
 def replace_state_menus():
     old_state_menu = """
                         <div class="card mb-4">
@@ -66,3 +73,6 @@ def replace_state_menus():
 def link_update():
     find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v1", '="http', '="https')
     find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v1", '="httpss', '="https')
+
+def st_geo_json_update():
+    find_replace_json("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v1", 'FIELD3', 'ST_GEO_PORTAL_URL')
