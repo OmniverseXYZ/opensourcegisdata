@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://opensourcegisdata.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://opensourcegisdata.com/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/about-open-source-gis-data.html</loc>
+<lastmod>2023-01-13T14:11:28-05:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media\posts\6/about-us.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/author/parker-dinkins/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/cartobin-gis-servers-web-app.html</loc>
+<lastmod>2023-01-13T16:19:13-05:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media\posts\8/globe-map.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/contact-open-source-gis-data.html</loc>
+<lastmod>2023-01-13T13:46:26-05:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media\posts\7/contact-image.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/noaa-emergency-response-storm-imagery.html</loc>
+<lastmod>2023-01-13T16:36:58-05:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media\posts\9/noaa-ngs-rsd-emergency-response-image.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-image.jpg</image:loc>
+<image:title><![CDATA[aerial imagery extents over southwest florida 2022]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-marina.jpg</image:loc>
+<image:title><![CDATA[aerial imagery of a fort myers marina before the hurricane ian]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-marina-after.jpg</image:loc>
+<image:title><![CDATA[aerial imagery of a fort myers marina after the hurricane ian]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-rv-park-before.jpg</image:loc>
+<image:title><![CDATA[aerial imagery of a fort myers rv park before the hurricane ian]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-rv-park-after.jpg</image:loc>
+<image:title><![CDATA[aerial imagery of a fort myers rv park after the hurricane ian]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-placida-before.jpg</image:loc>
+<image:title><![CDATA[aerial imagery of a placida residential area before the hurricane ian]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-placida-after.jpg</image:loc>
+<image:title><![CDATA[aerial imagery of a placida residential area after the hurricane ian]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/tags/about/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/tags/data-source/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/tags/gis/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/tags/resources/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/tags/software/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/tags/united-states/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/tags/us-federal/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/united-states-data-sources.html</loc>
+<lastmod>2023-01-13T00:15:43-05:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media\posts\2/USA.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/what-is-a-geographic-information-system.html</loc>
+<lastmod>2023-01-13T00:37:10-05:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media\posts\1/deco-map.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

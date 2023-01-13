@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Open Source GIS Data</title>
+    <link href="https://opensourcegisdata.com/feed.xml" rel="self" />
+    <link href="https://opensourcegisdata.com" />
+    <updated>2023-01-13T16:36:58-05:00</updated>
+    <author>
+        <name>Parker Dinkins</name>
+    </author>
+    <id>https://opensourcegisdata.com</id>
+
+    <entry>
+        <title>What is a Geographic Information System?</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/what-is-a-geographic-information-system.html"/>
+        <id>https://opensourcegisdata.com/what-is-a-geographic-information-system.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/1/deco-map.JPG" medium="image" />
+            <category term="Software"/>
+            <category term="Resources"/>
+            <category term="GIS"/>
+
+        <updated>2023-01-13T00:37:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/1/deco-map.JPG" alt="" />
+                    How GIS components work together. A transformation based view of GIS operation, in Martin. D. (1995). Theories of GIS. Wikimedia Commons CC Image GIS stands for Geographic Information System. A GIS holds different types of geospatial data types like rasters, points, lines and polygons for visualization&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/1/deco-map.JPG" class="type:primaryImage" alt="" /></p>
+                <h2><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Fig_4.4.png" alt="diagram of how GIS components work together" data-is-external-image="true"></h2>
+<p class="align-center">How GIS components work together. A transformation based view of GIS operation, in Martin. D. (1995). Theories of GIS. <a href="https://commons.wikimedia.org/wiki/File:Fig_4.4.png" target="_blank" rel="nofollow noopener noreferrer">Wikimedia Commons CC Image</a></p>
+<h2>What is a GIS?</h2>
+<p>GIS stands for <strong>Geographic Information System</strong>. A GIS holds different types of geospatial data types like rasters, points, lines and polygons for visualization and analysis. The technology of visualizing and analyzing geographic data can be applied to any industry and add value.</p>
+<h2>What is GIS used for?</h2>
+<p>GIS can be used to identify problems, monitor changes, manage and respond to events, perform forecasting, set priorities and to understand trends. GIS is used in many different industries including but not limited to environmental, emergency, urban planning, real estate, government, military, agriculture and many more.</p>
+<p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Snow-cholera-map.jpg" alt="The original map drawn by Dr. John Snow (1813-1858), a British physician who is one of the founders of medical epidemiology, showing cases of cholera in the London epidemics of 1854, clustered around the locations of water pumps." data-is-external-image="true"></p>
+<p>The original map drawn by Dr. John Snow (1813-1858), a British physician who is one of the founders of medical epidemiology, showing cases of cholera in the London epidemics of 1854, clustered around the locations of water pumps. <a href="https://commons.wikimedia.org/wiki/File:Snow-cholera-map.jpg" target="_blank" rel="nofollow noopener">Wikimedia Commons Public Domain Image</a></p>
+<h2 class="fw-bolder mb-4 mt-5">Examples of GIS uses in different industries</h2>
+<p class="fs-5 mb-4">Real estate agents use a GIS to visualize average home prices across different areas. Urban planners and developers use GIS to outline zones where certain types of buildings and amenities will be placed in cities and neighborhoods. The military uses GIS to plan missions and monitor situations like movements of troops and equipment.</p>
+<h2 class="fw-bolder mb-4 mt-5">What data can be used in a GIS?</h2>
+<p class="fs-5 mb-4">A GIS requires spatial data, or data that is tied to a specific location on Earth. Satellite data is often the first type of data that comes to mind when thinking about GIS. Using satellite data users are able to see what the world looks like the time the images where captured and how it may have changed if there were previous images taken. Polygon data is often used to show country, state, city and municipal boundaries. A line might be used to show a road or a river. A single point or a collection of points might be used to show where events happened or where something is located.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cartobin GIS Servers Web App</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/cartobin-gis-servers-web-app.html"/>
+        <id>https://opensourcegisdata.com/cartobin-gis-servers-web-app.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/8/globe-map.webp" medium="image" />
+            <category term="Resources"/>
+            <category term="About"/>
+
+        <updated>2023-01-13T16:19:13-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/8/globe-map.webp" alt="" />
+                    What is Cartobin? Cartobin is a web application developed by Ben Millard. He was inspired to create the application by Jeff from mappingsupport.com who created and maintains a very large list of GIS rest servers. The application provides an interface to interact with the list&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/8/globe-map.webp" class="type:primaryImage" alt="" /></p>
+                <h2 class="fw-bolder mb-4 mt-5">What is Cartobin?</h2>
+<p class="fs-5 mb-4">Cartobin is a web application developed by Ben Millard. He was inspired to create the application by Jeff from mappingsupport.com who created and maintains a very large list of GIS rest servers. The application provides an interface to interact with the list by creating pages for the different categories. There is a State category, a category US Federal sources and another category for miscellaneous sources.</p>
+<h2 class="fw-bolder mb-4 mt-5">Special Thanks to Ben</h2>
+<p class="fs-5 mb-4">I want to give a special thanks to Ben Millard for creating this application and the API that serves the data. After posting on Reddit about the Open Source GIS Data State Index he reached out giving me permission to use the API. I was able to create a short vanilla javascipt script that fetches data from his API and displays it on the <a href="https://opensourcegisdata.com/state/index.html">state pages.</a> This allowed me to easily add hundreds of GIS rest servers to the website for every single state.</p>
+<h2 class="fw-bolder mb-4 mt-5">Plans for the future</h2>
+<p class="fs-5 mb-4">At the time of posting this article I have not yet integrated the Federal data sources from the API in the website. My next course of action is to add the federal sources and the other miscellaneous sources. All of the sources from the API and the list are GIS rest servers. The initial sources published on this website were Geo Portals or geospatial data search engines for different organizations within states. The plan is to integrate the API for the rest servers and continue to add Geo Portals and other miscellaneous sources that are not just rest servers. Beyond just finding and adding sources I will create content around some of the most useful and interesting resources that are recommended to me or that I find.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>United States Data Sources</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/united-states-data-sources.html"/>
+        <id>https://opensourcegisdata.com/united-states-data-sources.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/2/USA.png" medium="image" />
+            <category term="United States"/>
+            <category term="Resources"/>
+            <category term="Data Source"/>
+
+        <updated>2023-01-13T00:15:43-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/2/USA.png" alt="" />
+                    Click on the map to be redirected to the results pages for that state.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/2/USA.png" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="900" height="525" style="border: none;" src="https://createaclickablemap.com/map.php?&amp;id=113426&amp;maplocation=false&amp;online=true"></iframe></div>Click on the map to be redirected to the results pages for that state. 
+<script>
+	if (window.addEventListener) {
+		window.addEventListener("message", function(event) {
+			if (event.data.length >= 22) {
+				if (event.data.substr(0, 22) == "__MM-LOCATION.REDIRECT") location = event.data.substr(22);
+			}
+		}, false);
+	} else if (window.attachEvent) {
+		window.attachEvent("message", function(event) {
+			if (event.data.length >= 22) {
+				if (event.data.substr(0, 22) == "__MM-LOCATION.REDIRECT") location = event.data.substr(22);
+			}
+		}, false);
+	}
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>NOAA Emergency Response Storm Imagery</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/noaa-emergency-response-storm-imagery.html"/>
+        <id>https://opensourcegisdata.com/noaa-emergency-response-storm-imagery.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/9/noaa-ngs-rsd-emergency-response-image.jpg" medium="image" />
+            <category term="United States"/>
+            <category term="US Federal"/>
+            <category term="Data Source"/>
+
+        <updated>2023-01-13T16:36:58-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/9/noaa-ngs-rsd-emergency-response-image.jpg" alt="" />
+                    Who collected the data? This imagery was collected by NOAA's NGS (National Geodetic Survey) RSD (Remote Sensing Division). To meet NOAA's homeland security and emergency response requirements the RSD collects imagery over areas affected by major weather events with emergency declarations. This data is acquired rapidly&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/9/noaa-ngs-rsd-emergency-response-image.jpg" class="type:primaryImage" alt="" /></p>
+                <h2><img loading="lazy" src="https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-image.jpg" alt="aerial imagery extents over southwest florida 2022" data-is-external-image="true"></h2>
+<h2 class="fw-bolder mb-4 mt-5">Who collected the data?</h2>
+<p>This imagery was collected by NOAA's NGS (National Geodetic Survey) <a href="https://www.ngs.noaa.gov/RSD/rsd_home.shtml" target="_blank" rel="noopener">RSD (Remote Sensing Division)</a>. To meet NOAA's homeland security and emergency response requirements the RSD collects imagery over areas affected by major weather events with emergency declarations. This data is acquired rapidly and distributed to federal, state and local governments and is openly available to the general public.</p>
+<div class="card">
+<div class="card-body">
+<blockquote class="blockquote mb-0">
+<p class="fs-5 mb-4">"On September 29, the National Geodetic Survey (NGS) began collecting aerial damage assessment images in the aftermath of Hurricane Ian. Imagery is being collected in specific areas by NOAA aircraft, identified by NOAA in coordination with FEMA and other state and federal partners."</p>
+<footer class="blockquote-footer"><cite title="Source Title"><a href="https://oceanservice.noaa.gov/news/sep22/ngs-storm-imagery-ian.html" target="_blank" rel="noopener">NOAA</a></cite></footer></blockquote>
+<footer></footer><footer>
+<h2 class="fw-bolder mb-4 mt-5">Why is the data important?</h2>
+<p class="fs-5 mb-4">Aerial imagery can be expensive to collect and process over large areas and in emergency response situations it can be critical in making decisions. Having a federal agency be able to quickly collect, process and desseminate this critical data makes rescue response decision making more informed.</p>
+<div class="card">
+<div class="card-body">
+<blockquote class="blockquote mb-0">
+<p class="fs-5 mb-4">"NOAA's aerial imagery aids safe navigation and captures damage to coastal areas caused by a storm. Aerial imagery is a crucial tool to determine the extent of the damage inflicted by flooding, and to compare baseline coastal areas to assess the damage to major ports and waterways, coastlines, critical infrastructure, and coastal communities. This imagery provides a cost-effective way to better understand the damage sustained to both property and the environment."</p>
+<footer class="blockquote-footer"><cite title="Source Title"><a href="https://oceanservice.noaa.gov/news/sep22/ngs-storm-imagery-ian.html" target="_blank" rel="noopener">NOAA</a></cite></footer></blockquote>
+</div>
+</div>
+<h2 class="fw-bolder mb-4 mt-5">How to access the data</h2>
+<p class="fs-5 mb-4"><a href="https://storms.ngs.noaa.gov/" target="_blank" rel="noopener">https://storms.ngs.noaa.gov/</a></p>
+<p class="fs-5 mb-4">This link will take you to the index page with all of the <a href="https://storms.ngs.noaa.gov/" target="_blank" rel="noopener">Emergency Response Imagery</a> links going back to 2003. The imagery can be viewed online with two different basemap options being MapBox Streets or MapBox Satelite to examine what areas looked like before the listed event. The data is also available for download with a "Download" button on the top menu bar. It is also possible to connect your own GIS to the data source via WMTS (Web Map Tile Service) by clicking "About" then "Web Services" for the link.</p>
+<h2 class="fw-bolder mb-4 mt-5">Analyzing imagery from the Hurricane Ian 2022</h2>
+<p class="fs-5 mb-4">Hurricane Ian hit southwest Florida in late September 2022. Using the <a href="https://storms.ngs.noaa.gov/storms/ian/index.html#9/26.4200/-81.9700" target="_blank" rel="noopener">online viewer</a> for Hurrican Ian aerial imagery we will look at some images of before and after the storm.</p>
+<figure class="post__image"><img loading="lazy"  src="https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-marina.jpg" alt="aerial imagery of a fort myers marina before the hurricane ian" data-is-external-image="true"><figcaption>A marina in Matanzas Pass in the Fort Myers area before hurricane Ian 2022.</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-marina-after.jpg" alt="aerial imagery of a fort myers marina after the hurricane ian" data-is-external-image="true"><figcaption>The same marina in Matanzas Pass after hurricane Ian 2022 showing destroyed docks and piled up boats.</figcaption></figure>
+<p>We can clearly see massive damage to the marina and the boats that are docked there. It is also worth noting that the the dock and boats have been pushed up onto the mangrove forest to the right causing environmental damage.</p>
+<figure class="post__image"><img loading="lazy"  src="https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-rv-park-before.jpg" alt="aerial imagery of a fort myers rv park before the hurricane ian" data-is-external-image="true"><figcaption>A RV/Mobile home park in the Fort Myers Beach area before hurricane Ian 2022.</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-rv-park-after.jpg" alt="aerial imagery of a fort myers rv park after the hurricane ian" data-is-external-image="true"><figcaption>The same RV/Mobile home park after hurricane Ian 2022 showing extensive property damage.</figcaption></figure>
+<p>Looking at this image you can cleary tell that just about every single building was washed away and destroyed within this mobile home and rv park. Thoughts and prayers go out to everyone that called this place home and we can only hope that they were able to evacuate to somewhere safer to wait out the storm.</p>
+<figure class="post__image"><img loading="lazy"  src="https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-placida-before.jpg" alt="aerial imagery of a placida residential area before the hurricane ian" data-is-external-image="true"><figcaption>A residential area in Placida before hurricane Ian 2022.</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://opensourcegisdata.com/assets/noaa-ngs-rsd-emergency-response-img-placida-after.jpg" alt="aerial imagery of a placida residential area after the hurricane ian" data-is-external-image="true"><figcaption>The same residential area in Placida after hurricane Ian 2022 showing property damage.</figcaption></figure>
+<p>A quick glance shows that about about fifty to sixty percent of the houses sustained some damages while another twenty to thirty percent seem to be completely destroyed. It is no surprise that all of these coastal areas hit directly by the storm were damaged severly. There are no official figures yet but it is looking like Ian may be one of the worst hurricanes in history in terms of property damage costs.</p>
+</footer></div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact Open Source GIS Data</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/contact-open-source-gis-data.html"/>
+        <id>https://opensourcegisdata.com/contact-open-source-gis-data.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/7/contact-image.jpg" medium="image" />
+            <category term="About"/>
+
+        <updated>2023-01-13T13:46:26-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About Open Source GIS Data</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/about-open-source-gis-data.html"/>
+        <id>https://opensourcegisdata.com/about-open-source-gis-data.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/6/about-us.jpg" medium="image" />
+            <category term="About"/>
+
+        <updated>2023-01-13T14:11:28-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/6/about-us.jpg" alt="" />
+                    Purpose of Open Source GIS Data The purpose of this website is to provide a place for people to find and utilize open source GIS data. From local government sources to globally available sources, this is the place to find them and learn how they&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/6/about-us.jpg" class="type:primaryImage" alt="" /></p>
+                <h2 class="fw-bolder mb-4 mt-5">Purpose of Open Source GIS Data</h2>
+<p class="fs-5 mb-4">The purpose of this website is to provide a place for people to find and utilize open source GIS data. From local government sources to globally available sources, this is the place to find them and learn how they can be used.</p>
+<p class="fs-5 mb-4">Topography, weather, hydrology, ecology, social, conflict, administrative and many more types of data are at your fingertips here.</p>
+<h2 class="fw-bolder mb-4 mt-5">Special Thanks</h2>
+<div class="card">
+<div class="card-body">
+<blockquote class="blockquote mb-0">
+<p class="fs-5 mb-4">"If I have seen further it is by standing on the shoulders of Giants."</p>
+<footer class="blockquote-footer"><cite title="Source Title">Sir Isaac Newton</cite></footer></blockquote>
+</div>
+</div>
+<p class="fs-5 mb-4">I want to thank Joseph from <a href="https://mappingsupport.com/">mappingsupport.com</a> for curating and maintaining his list of 3000+ ArcGIS rest servers. This list is one of the largest collections of federal, state, and local GIS data sources.</p>
+<p class="fs-5 mb-4">Next I would like to thank Ben Millard from <a href="https://servers.cartobin.com/about">cartobin.com</a> for creating a web application with an API using Joseph's list of sources. Using this API has allowed me to easily add thousands of sources to this website for every state and US Federal Agency.</p>
+<h2 class="fw-bolder mb-4 mt-5">Start Exploring the World Through Different Lenses Using Open Source GIS Data Today</h2>
+<p class="fs-5 mb-4">Unlock new understandings of the world around you by exploring GIS data. GIS data goes beyond boring spreadsheets. View data using free applications or web portals and begin creating your own maps.</p>
+<p class="fs-5 mb-4">You never know what you might find until you start looking. Start by finding data around your local area or a topic you are interested in. Check out the home page for inspiration or click through the categories.</p>
+<p class="fs-5 mb-4">Are you from the United States? Start exploring data sources from your state using the United States <a href="https://opensourcegisdata.com/state/index.html">Data Index</a> by using the map and clicking on your state. Explore the Geo Portals or by using the rest service link directly with you own GIS.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
