@@ -21,6 +21,56 @@ def find_replace_json(path, find, replace):
         text = text.replace(find, replace)
         p.write_text(text)
 
+def replace_side_menu():
+    old_menu = """
+                <div class="col-lg-4">
+                    <!-- Categories widget-->
+                    <div class="card mb-4">
+                        <div class="card-header">Categories</div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled mb-0">
+                                        <li><a href="../state/index.html">US Sources</a></li>
+                                        <li><a href="./index.html">US Federal Sources</a></li>
+                                        <li><a href="../international/index.html">International</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-6">
+                                    <ul class="list-unstyled mb-0">
+                                        <li><a href="../software/index.html">Software</a></li>
+                                        <li><a href="../resources/index.html">Resources</a></li>
+                                        <li><a href="../tutorials/index.html">Tutorials</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    """
+    newmenu = " "
+    find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v3-v2-merge/state", old_menu, newmenu)
+    find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v3-v2-merge/us-federal", old_menu, newmenu)
+
+def columspace():
+    old = """<div class="col-lg-8" data-bs-spy="scroll" id="scroll-nav">
+    """
+    new = """<div class="col-lg-12" data-bs-spy="scroll" id="scroll-nav">
+    """
+    find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v3-v2-merge/state", old, new)
+    find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v3-v2-merge/us-federal", old, new)
+
+
+def fnr3():
+    old2 = """
+    Open Source GIS Data
+    """
+    new2 = """
+    Open Source GIS Data Results
+    """
+    find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v3-v2-merge/state", old2, new2)
+    find_replace("C:/Users/Admin/Documents/GitHub/opensourcegisdata/v3-v2-merge/us-federal", old2, new2)
+    
 def replace_state_menus():
     old_state_menu = """
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
