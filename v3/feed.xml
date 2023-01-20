@@ -3,12 +3,51 @@
     <title>Open Source GIS Data</title>
     <link href="https://opensourcegisdata.com/feed.xml" rel="self" />
     <link href="https://opensourcegisdata.com" />
-    <updated>2023-01-19T16:17:43-05:00</updated>
+    <updated>2023-01-20T17:02:12-05:00</updated>
     <author>
         <name>Parker Dinkins</name>
     </author>
     <id>https://opensourcegisdata.com</id>
 
+    <entry>
+        <title>Understanding The World Around Us Using Landcover Classification Geospatial Data</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/understanding-the-world-around-us-using-landcover-classification-geospatial-data.html"/>
+        <id>https://opensourcegisdata.com/understanding-the-world-around-us-using-landcover-classification-geospatial-data.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/12/landcover-classification-data-new-york-1.png" medium="image" />
+            <category term="Resources"/>
+            <category term="Data Source"/>
+
+        <updated>2023-01-20T17:01:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/12/landcover-classification-data-new-york-1.png" alt="" />
+                    What is landcover classification The Earth's surface is a complex environment, and land cover classification helps us understand it. Landcover classifiers use geographic information systems (GIS) or satellite imagery to classify land according to its properties. They can then examine the patterns they find to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/12/landcover-classification-data-new-york-1.png" class="type:primaryImage" alt="" /></p>
+                <h2 data-pm-slice="1 1 []">What is landcover classification</h2>
+<p data-pm-slice="1 1 []">The Earth's surface is a complex environment, and land cover classification helps us understand it. Landcover classifiers use <em><strong><a href="https://opensourcegisdata.com/what-is-a-geographic-information-system.html">geographic information systems (GIS)</a> </strong></em>or satellite imagery to classify land according to its properties. They can then examine the patterns they find to see how human activity has changed over time or predict how it will change in the future.</p>
+<h2 data-pm-slice="1 1 []">Landcover classification is the process of assigning categories to land based on its characteristics.</h2>
+<p data-pm-slice="1 1 []">Land cover classifiers use geographic information systems (GIS) or satellite imagery to classify land according to its properties, such as whether it is grassland, forest or wetland. This data can help us understand how our planet's surfaces are changing over time and how we might use that information for future planning purposes.</p>
+<p data-pm-slice="1 1 []">The following layers come from the<strong> <em><a href="https://maps.coast.noaa.gov/arcgis/rest/services/FloodExposureMapper" target="_blank" rel="noopener noreferrer">FloodExposureMapper Service from NOAA</a>.</em></strong> LandCover Natural Areas Open Space has three different classifications represented by tan, light green and green. This classification identifies different types of natural areas and where they occur along the coast lines of the United States. The second layer used is the LandCover Developed which has four different classifications for urban development ranging from low to high intensity development. The development classifications as represented using a gray scale that gets darker with high degrees of development. </p>
+<figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://opensourcegisdata.com/media/posts/12/landcover-classification-data-new-york-2.png" alt="" width="3507" height="2480" sizes="(max-width: 48em) 100vw, 768px" srcset="https://opensourcegisdata.com/media/posts/12/responsive/landcover-classification-data-new-york-2-xs.png 300w ,https://opensourcegisdata.com/media/posts/12/responsive/landcover-classification-data-new-york-2-sm.png 480w ,https://opensourcegisdata.com/media/posts/12/responsive/landcover-classification-data-new-york-2-md.png 768w ,https://opensourcegisdata.com/media/posts/12/responsive/landcover-classification-data-new-york-2-lg.png 1024w ,https://opensourcegisdata.com/media/posts/12/responsive/landcover-classification-data-new-york-2-xl.png 1360w ,https://opensourcegisdata.com/media/posts/12/responsive/landcover-classification-data-new-york-2-2xl.png 1600w"></figure>
+<h2 data-pm-slice="1 1 []">Landcover classification is used in a variety of fields, including earth science, agriculture, and urban planning.</h2>
+<p data-pm-slice="1 1 []">There are several different types of landcover classification schemes. The most common type classifies land according to the dominant types of vegetation occurring on it. This type is often called plant communities or floristic community maps because it maps plant species (flora) rather than taxa (animals).</p>
+<p data-pm-slice="1 1 []">Landcover classifiers use geographic information systems (GIS) or satellite imagery to classify land according to its properties. They are used for mapping, analysis and decision-making. Landcover classification is also called land cover mapping, or thematic mapping of vegetative cover types. It can be done by hand or automated methods such as image classification.</p>
+<p data-pm-slice="1 1 []">When using background satellite imagery courtsey of the<strong> <em><a href="https://cimsgeo.coastal.louisiana.gov/arcgis/rest/services/image_services" target="_blank" rel="noopener noreferrer">State of Louisiana Coastal REST Service directory for imagery</a></em></strong> combined with our previous land cover data we will observe that the dark green areas represent land that is covered in trees while the light green is open farmlands. The classification layers also acurately describes ares with roads and urban development which are represented in grey colors on the map. </p>
+<figure class="post__image"><img loading="lazy"  src="https://opensourcegisdata.com/media/posts/12/land-classification-trees-vs-farmland-vs-urban-2.png" alt="" width="3507" height="2480" sizes="(max-width: 48em) 100vw, 768px" srcset="https://opensourcegisdata.com/media/posts/12/responsive/land-classification-trees-vs-farmland-vs-urban-2-xs.png 300w ,https://opensourcegisdata.com/media/posts/12/responsive/land-classification-trees-vs-farmland-vs-urban-2-sm.png 480w ,https://opensourcegisdata.com/media/posts/12/responsive/land-classification-trees-vs-farmland-vs-urban-2-md.png 768w ,https://opensourcegisdata.com/media/posts/12/responsive/land-classification-trees-vs-farmland-vs-urban-2-lg.png 1024w ,https://opensourcegisdata.com/media/posts/12/responsive/land-classification-trees-vs-farmland-vs-urban-2-xl.png 1360w ,https://opensourcegisdata.com/media/posts/12/responsive/land-classification-trees-vs-farmland-vs-urban-2-2xl.png 1600w"></figure>
+<h2 data-pm-slice="1 1 []">Landcover classification helps us understand the Earth's surface.</h2>
+<p data-pm-slice="1 1 []">Landcover classification classifies land cover (the type of vegetation) into categories such as forest or grassland. It can help us understand how much of the Earth's surface is covered by different types of vegetation as well as how ecosystems are changing over time.</p>
+<p data-pm-slice="1 1 []">Landcover classification is a powerful tool for understanding the Earth’s surface. It allows us to identify areas with particular characteristics and use this information in a variety of applications. This article has given you an overview of landcover classification, including examples and why it matters.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Importance of Open Source GIS software</title>
         <author>
@@ -105,7 +144,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-01-19T16:17:43-05:00</updated>
+        <updated>2023-01-20T17:02:07-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/4/ryan-parker-miami-aerial.jpg" alt="" />
@@ -155,7 +194,7 @@
             <category term="Resources"/>
             <category term="GIS"/>
 
-        <updated>2023-01-13T00:37:10-05:00</updated>
+        <updated>2023-01-20T17:02:01-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/1/deco-map.JPG" alt="" />
@@ -191,7 +230,7 @@
             <category term="Resources"/>
             <category term="About"/>
 
-        <updated>2023-01-13T16:19:13-05:00</updated>
+        <updated>2023-01-20T17:01:51-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/8/globe-map.webp" alt="" />
@@ -335,7 +374,7 @@
         <media:content url="https://opensourcegisdata.com/media/posts/6/about-us.jpg" medium="image" />
             <category term="About"/>
 
-        <updated>2023-01-13T14:11:28-05:00</updated>
+        <updated>2023-01-20T17:02:12-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/6/about-us.jpg" alt="" />
