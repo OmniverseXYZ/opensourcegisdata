@@ -3,12 +3,54 @@
     <title>Open Source GIS Data</title>
     <link href="https://opensourcegisdata.com/feed.xml" rel="self" />
     <link href="https://opensourcegisdata.com" />
-    <updated>2023-01-20T17:02:12-05:00</updated>
+    <updated>2023-01-21T15:34:19-05:00</updated>
     <author>
         <name>Parker Dinkins</name>
     </author>
     <id>https://opensourcegisdata.com</id>
 
+    <entry>
+        <title>United States Geological Survey (USGS) Geospatial Data Sources</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/united-states-geological-survey-usgs.html"/>
+        <id>https://opensourcegisdata.com/united-states-geological-survey-usgs.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/13/gnss-in-field.jpg" medium="image" />
+            <category term="United States"/>
+            <category term="US Federal"/>
+            <category term="Data Source"/>
+
+        <updated>2023-01-21T15:34:19-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/13/gnss-in-field.jpg" alt="" />
+                    The United States Geological Survey (USGS) is a scientific agency within the U.S. Department of the Interior that studies and reports on natural resources and the environment. The USGS provides information on this topic and many others via its website, publications, data sets and other&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/13/gnss-in-field.jpg" class="type:primaryImage" alt="" /></p>
+                <p data-pm-slice="1 1 []">The <strong>United States Geological Survey (USGS)</strong> is a scientific agency within the U.S. Department of the Interior that studies and reports on natural resources and the environment. The USGS provides information on this topic and many others via its website, publications, data sets and other products.</p>
+<p data-pm-slice="1 1 []">The USGS is a scientific agency of the United States government. It has been in operation since 1879 and provides information to customers, who include the general public and federal agencies. USGS's vision is to:</p>
+<blockquote>
+<p data-pm-slice="1 1 []">"Lead the Nation in 21st-century integrated research, assessments, and prediction of natural resources and processes to meet society’s needs."</p>
+</blockquote>
+<h2 data-pm-slice="1 1 []">Its mission is to study and report on natural resources and the environment.</h2>
+<p data-pm-slice="1 1 []">The USGS's mission is to study and report on, primarily, natural resources and the environment. It provides scientific data regarding natural hazards, water quality, topography and climate change. The USGS also provides information on the nation's ecosystems and land cover patterns so that they can be used as a management tool for national security purposes.</p>
+<h2 data-pm-slice="1 1 []">It provides scientific data regarding natural hazards, water quality, topography and climate change.</h2>
+<p data-pm-slice="1 1 []">The USGS operates over 250 different facilities around the country, with offices located in every state and territory. These offices are run by scientists who collect, analyze and interpret data on natural hazards such as earthquakes or volcanic eruptions; water quality conditions, especially those related to drinking water supplies; coastal changes caused by erosion or flooding; land use planning decisions such as those related to agriculture; subsurface mineral exploration for energy production purposes; global climate change trends; mapping for national security applications like military bases and missile silos and nuclear weapons; geological surveys designed specifically for private investors interested in buying lots of land.</p>
+<h2 data-pm-slice="1 1 []">USGS REST Services</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+<div id="restServices"></div>
+<p>
+<script src="cartobin-fed-api.js" reqfederal="USGS"></script>
+</p>
+<h2 data-pm-slice="1 1 []">Conclusion</h2>
+<p>The USGS, a scientific agency of the United States government, is a valuable resource for anyone who needs to know about natural resources in the country. It provides information on everything from earthquakes and volcanoes to sea-level rise. The USGS also produces reports on things such as climate change and hazardous waste disposal sites.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Understanding The World Around Us Using Landcover Classification Geospatial Data</title>
         <author>
@@ -60,7 +102,7 @@
             <category term="Resources"/>
             <category term="GIS"/>
 
-        <updated>2023-01-18T16:24:24-05:00</updated>
+        <updated>2023-01-21T14:36:36-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/11/nasa-earth-from-low-earth-orbit-at-night.jpg" alt="" />
@@ -107,7 +149,7 @@
             <category term="Resources"/>
             <category term="GIS"/>
 
-        <updated>2023-01-18T19:16:38-05:00</updated>
+        <updated>2023-01-21T14:36:33-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/10/patrick-tomasso-new-york.jpg" alt="" />
@@ -134,6 +176,54 @@
         </content>
     </entry>
     <entry>
+        <title>State of Georgia GIS Data Sources </title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/georgia-data-sources.html"/>
+        <id>https://opensourcegisdata.com/georgia-data-sources.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/5/kyle-sudu-atlanta-night.jpg" medium="image" />
+            <category term="United States"/>
+            <category term="Data Source"/>
+
+        <updated>2023-01-21T14:56:22-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/5/kyle-sudu-atlanta-night.jpg" alt="" />
+                    Georgia GIS Data The following page includes links to various geospatial data sources for the state of Georgia. The majority of these data sources provide GIS data in formats compatible with ArcGIS and QGIS through the REST Services. The Georgia GIS Portal is the state's&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/5/kyle-sudu-atlanta-night.jpg" class="type:primaryImage" alt="" /></p>
+                <h1>Georgia GIS Data</h1>
+<p>The following page includes links to various geospatial data sources for the state of Georgia. The majority of these data sources provide GIS data in formats compatible with ArcGIS and QGIS through the REST Services.</p>
+<p data-pm-slice="1 3 []">The Georgia GIS Portal is the state's official public website for geospatial data. It provides access to many different types of data, including:</p>
+<ul>
+<li>
+<p>Land Use Data (e.g., parcels, zoning)</p>
+</li>
+<li>
+<p>Cadastral/property boundary data (e.g., parcel owners and addresses)</p>
+</li>
+<li>
+<p>State Facility Data (e.g., landfills, sewer systems)</p>
+</li>
+<li>
+<p>Transportation Data (e.g., road networks)</p>
+</li>
+</ul>
+<h2>List of REST Services:</h2>
+<div id="restServices"></div>
+<p>
+<script src="cartobin-state-api.js" reqstate="Georgia"></script>
+</p>
+<h2 data-pm-slice="1 1 []">Conclusion</h2>
+<p>This is the most comprehensive list of geospatial data sources for the state of Georgia. We hope that you find this information useful, and we invite you to <a href="https://opensourcegisdata.com/contact-open-source-gis-data.html">contact us</a> with any questions or comments.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>State of Florida GIS Data Sources</title>
         <author>
             <name>Parker Dinkins</name>
@@ -144,7 +234,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-01-20T17:02:07-05:00</updated>
+        <updated>2023-01-21T14:51:32-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/4/ryan-parker-miami-aerial.jpg" alt="" />
@@ -347,60 +437,6 @@
 <p>A quick glance shows that about about fifty to sixty percent of the houses sustained some damages while another twenty to thirty percent seem to be completely destroyed. It is no surprise that all of these coastal areas hit directly by the storm were damaged severly. There are no official figures yet but it is looking like Ian may be one of the worst hurricanes in history in terms of property damage costs.</p>
 </footer></div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact Open Source GIS Data</title>
-        <author>
-            <name>Parker Dinkins</name>
-        </author>
-        <link href="https://opensourcegisdata.com/contact-open-source-gis-data.html"/>
-        <id>https://opensourcegisdata.com/contact-open-source-gis-data.html</id>
-        <media:content url="https://opensourcegisdata.com/media/posts/7/contact-image.jpg" medium="image" />
-            <category term="About"/>
-
-        <updated>2023-01-18T15:27:33-05:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>About Open Source GIS Data</title>
-        <author>
-            <name>Parker Dinkins</name>
-        </author>
-        <link href="https://opensourcegisdata.com/about-open-source-gis-data.html"/>
-        <id>https://opensourcegisdata.com/about-open-source-gis-data.html</id>
-        <media:content url="https://opensourcegisdata.com/media/posts/6/about-us.jpg" medium="image" />
-            <category term="About"/>
-
-        <updated>2023-01-20T17:02:12-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://opensourcegisdata.com/media/posts/6/about-us.jpg" alt="" />
-                    Purpose of Open Source GIS Data The purpose of this website is to provide a place for people to find and utilize open source GIS data. From local government sources to globally available sources, this is the place to find them and learn how they&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://opensourcegisdata.com/media/posts/6/about-us.jpg" class="type:primaryImage" alt="" /></p>
-                <h2 class="fw-bolder mb-4 mt-5">Purpose of Open Source GIS Data</h2>
-<p class="fs-5 mb-4">The purpose of this website is to provide a place for people to find and utilize open source GIS data. From local government sources to globally available sources, this is the place to find them and learn how they can be used.</p>
-<p class="fs-5 mb-4">Topography, weather, hydrology, ecology, social, conflict, administrative and many more types of data are at your fingertips here.</p>
-<h2 class="fw-bolder mb-4 mt-5">Special Thanks</h2>
-<div class="card">
-<div class="card-body">
-<blockquote class="blockquote mb-0">
-<p class="fs-5 mb-4">"If I have seen further it is by standing on the shoulders of Giants."</p>
-<footer class="blockquote-footer"><cite title="Source Title">Sir Isaac Newton</cite></footer></blockquote>
-</div>
-</div>
-<p class="fs-5 mb-4">I want to thank Joseph from <a href="https://mappingsupport.com/">mappingsupport.com</a> for curating and maintaining his list of 3000+ ArcGIS rest servers. This list is one of the largest collections of federal, state, and local GIS data sources.</p>
-<p class="fs-5 mb-4">Next I would like to thank Ben Millard from <a href="https://servers.cartobin.com/about">cartobin.com</a> for creating a web application with an API using Joseph's list of sources. Using this API has allowed me to easily add thousands of sources to this website for every state and US Federal Agency.</p>
-<h2 class="fw-bolder mb-4 mt-5">Start Exploring the World Through Different Lenses Using Open Source GIS Data Today</h2>
-<p class="fs-5 mb-4">Unlock new understandings of the world around you by exploring GIS data. GIS data goes beyond boring spreadsheets. View data using free applications or web portals and begin creating your own maps.</p>
-<p class="fs-5 mb-4">You never know what you might find until you start looking. Start by finding data around your local area or a topic you are interested in. Check out the home page for inspiration or click through the categories.</p>
-<p class="fs-5 mb-4">Are you from the United States? Start exploring data sources from your state using the United States <a href="https://opensourcegisdata.com/state/index.html">Data Index</a> by using the map and clicking on your state. Explore the Geo Portals or by using the rest service link directly with you own GIS.</p>
             ]]>
         </content>
     </entry>

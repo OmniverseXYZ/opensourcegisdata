@@ -66,21 +66,21 @@ function appendData(data) {
     for (var i = 0; i < data.length; i++) {
         // create main card div element
         var div = document.createElement("div");
-        div.className = "card w-auto";
+        //div.className = "card w-auto";
 
         // create nested card body element
         var div2 = document.createElement('div');
-        div2.className = "card-body"
+        //div2.className = "card-body"
         div.appendChild(div2);
 
         // create nested h5 element
-        var h5title = document.createElement('h5');
-        h5title.className = "card-title";
+        var h5title = document.createElement('h3');
+        //h5title.className = "card-title";
         div2.appendChild(h5title);
 
         // create nested p element
         var p = document.createElement('p');
-        p.className = "card-text";
+        //p.className = "card-text";
         div2.appendChild(p);
 
         // create nested a element
