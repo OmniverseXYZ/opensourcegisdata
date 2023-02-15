@@ -16,6 +16,9 @@
 <loc>https://opensourcegisdata.com/author/parker-dinkins/</loc>
 </url>
 <url>
+<loc>https://opensourcegisdata.com/author/ramiz-sami/</loc>
+</url>
+<url>
 <loc>https://opensourcegisdata.com/cartobin-gis-servers-web-app.html</loc>
 <lastmod>2023-01-20T17:01:51-05:00</lastmod>
 <image:image>
@@ -125,6 +128,14 @@
 <image:image>
 <image:loc>https://opensourcegisdata.com/media\posts\35/mo-sarwat-geospatial-data-structures.jpg</image:loc>
 <image:title><![CDATA[Cheat sheet for the basic geospatial data structures and the pros/cons of each. @MoSarwat]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/geospatial-data-understanding-collection-and-applications.html</loc>
+<lastmod>2023-02-15T15:10:00-05:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media\posts\36/usgs-aerial-image-terrain-blue.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
@@ -334,6 +345,9 @@
 <loc>https://opensourcegisdata.com/tags/us-federal/</loc>
 </url>
 <url>
+<loc>https://opensourcegisdata.com/tags/webgis/</loc>
+</url>
+<url>
 <loc>https://opensourcegisdata.com/transform-your-construction-business-with-gis-technology.html</loc>
 <lastmod>2023-01-22T16:40:03-05:00</lastmod>
 <image:image>
@@ -386,6 +400,14 @@
 <lastmod>2023-01-22T16:39:04-05:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media\posts\18/pins-on-map.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/webgis-development-2023-guide-tools-technologies-for-building-advanced-geospatial-applications.html</loc>
+<lastmod>2023-02-15T15:01:14-05:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media\posts\37/keplergl.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
