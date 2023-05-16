@@ -3,12 +3,60 @@
     <title>Open Source GIS Data</title>
     <link href="https://opensourcegisdata.com/feed.xml" rel="self" />
     <link href="https://opensourcegisdata.com" />
-    <updated>2023-02-15T15:10:00-05:00</updated>
+    <updated>2023-03-09T15:32:50-05:00</updated>
     <author>
         <name>Parker Dinkins</name>
     </author>
     <id>https://opensourcegisdata.com</id>
 
+    <entry>
+        <title>Virginia Geospatial Data Sources</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/virginia-geospatial-data-sources.html"/>
+        <id>https://opensourcegisdata.com/virginia-geospatial-data-sources.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/38/stephen-poore-richmond-virginia.jpg" medium="image" />
+            <category term="United States"/>
+            <category term="Data Source"/>
+
+        <updated>2023-03-09T15:32:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/38/stephen-poore-richmond-virginia.jpg" alt="" />
+                    Virginia GIS Data The following page includes links to various geospatial data sources for the state of California. The majority of these data sources provide GIS data in formats compatible with ArcGIS and QGIS through the REST Services. The Virginia Geographic Information Network is the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/38/stephen-poore-richmond-virginia.jpg" class="type:primaryImage" alt="" /></p>
+                <h1>Virginia GIS Data</h1>
+<p>The following page includes links to various geospatial data sources for the state of California. The majority of these data sources provide GIS data in formats compatible with ArcGIS and QGIS through the REST Services.</p>
+<p data-pm-slice="1 3 []">The <a href="https://vgin.maps.arcgis.com/" target="_blank" rel="nofollow noopener noreferrer">Virginia Geographic Information Network</a> is the state's official public website for geospatial data. It provides access to many different types of data, including:</p>
+<ul>
+<li>
+<p>Land Use Data (e.g., parcels, zoning)</p>
+</li>
+<li>
+<p>Cadastral/property boundary data (e.g., parcel owners and addresses)</p>
+</li>
+<li>
+<p>State Facility Data (e.g., landfills, sewer systems)</p>
+</li>
+<li>
+<p>Transportation Data (e.g., road networks)</p>
+</li>
+</ul>
+<h2>List of REST Services:</h2>
+<div id="restServices"></div>
+<p>
+<script src="cartobin-state-api.js" reqstate="Virginia"></script>
+</p>
+<h2 data-pm-slice="1 1 []">Conclusion</h2>
+<p>This is the most comprehensive list of geospatial data sources for the state of Virginia. We hope that you find this information useful, and we invite you to <a href="https://opensourcegisdata.com/contact-open-source-gis-data.html">contact us</a> with any questions or comments.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>WebGIS Development in 2023: A Guide to the Tools and Technologies I Use for Building Advanced Geospatial Applications</title>
         <author>
@@ -460,36 +508,6 @@
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="DOE"></script>
-</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Department of Transportation GIS Data Sources </title>
-        <author>
-            <name>Parker Dinkins</name>
-        </author>
-        <link href="https://opensourcegisdata.com/department-of-transportation-gis-data-sources.html"/>
-        <id>https://opensourcegisdata.com/department-of-transportation-gis-data-sources.html</id>
-        <media:content url="https://opensourcegisdata.com/media/posts/28/tampa-dot-fatal-crashes.JPG" medium="image" />
-            <category term="US Federal"/>
-            <category term="Data Source"/>
-
-        <updated>2023-02-02T12:09:32-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://opensourcegisdata.com/media/posts/28/tampa-dot-fatal-crashes.JPG" alt="" />
-                    DOT REST Services Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://opensourcegisdata.com/media/posts/28/tampa-dot-fatal-crashes.JPG" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">DOT REST Services</h2>
-<p>Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
-<div id="restServices"></div>
-<p>
-<script src="cartobin-fed-api.js" reqfederal="DOT"></script>
 </p>
             ]]>
         </content>
