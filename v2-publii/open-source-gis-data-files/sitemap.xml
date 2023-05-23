@@ -5,6 +5,14 @@
 <loc>https://opensourcegisdata.com/</loc>
 </url>
 <url>
+<loc>https://opensourcegisdata.com/a-comprehensive-guide-for-geospatial-data-scientists.html</loc>
+<lastmod>2023-05-23T13:42:05-04:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media\posts\42/clay-banks-no2blvVYoJw-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://opensourcegisdata.com/about-open-source-gis-data.html</loc>
 <lastmod>2023-01-25T11:54:15-05:00</lastmod>
 <image:image>
@@ -285,6 +293,9 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/page/5/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/page/6/</loc>
 </url>
 <url>
 <loc>https://opensourcegisdata.com/qgis-free-open-source-cross-platform-gis.html</loc>
