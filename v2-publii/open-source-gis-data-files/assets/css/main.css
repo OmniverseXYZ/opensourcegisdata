@@ -2398,6 +2398,20 @@ textarea {
 .post__bio h4 {
   margin: 0;
 }
+.post__bio a {
+  color: var(--link-hover-color);
+  -webkit-transition: all 0.24s ease-out;
+  transition: all 0.24s ease-out;
+}
+.post__bio a:hover {
+  color: var(--link-color);
+}
+.post__bio a:active {
+  color: var(--link-color);
+}
+.post__bio a:focus {
+  color: var(--link-color);
+}
 .post__related {
   border-top: 1px solid var(--border-color-light);
 }
@@ -2469,6 +2483,20 @@ textarea {
   .page--author__avatar + div {
     margin-left: 5.8285714286rem;
   }
+}
+.page--author__content a:not(.page--author__website a) {
+  color: var(--link-hover-color);
+  -webkit-transition: all 0.24s ease-out;
+  transition: all 0.24s ease-out;
+}
+.page--author__content a:not(.page--author__website a):hover {
+  color: var(--link-color);
+}
+.page--author__content a:not(.page--author__website a):active {
+  color: var(--link-color);
+}
+.page--author__content a:not(.page--author__website a):focus {
+  color: var(--link-color);
 }
 .page--author__name {
   margin: 0;
