@@ -3,12 +3,63 @@
     <title>Open Source GIS Data</title>
     <link href="https://opensourcegisdata.com/feed.xml" rel="self" />
     <link href="https://opensourcegisdata.com" />
-    <updated>2023-08-30T03:52:59-04:00</updated>
+    <updated>2023-11-09T09:37:57-05:00</updated>
     <author>
         <name>Parker Dinkins</name>
     </author>
     <id>https://opensourcegisdata.com</id>
 
+    <entry>
+        <title>GISData.io: Revolutionizing Geospatial Data Search</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/gisdataio-revolutionizing-geospatial-data-search.html"/>
+        <id>https://opensourcegisdata.com/gisdataio-revolutionizing-geospatial-data-search.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/74/gisdata-io-2.png" medium="image" />
+            <category term="WebGIS"/>
+            <category term="United States"/>
+            <category term="US Federal"/>
+            <category term="Search Engine"/>
+            <category term="Resources"/>
+            <category term="Real Estate"/>
+            <category term="International"/>
+            <category term="GIS"/>
+            <category term="Data Source"/>
+            <category term="Construction"/>
+            <category term="Coastal"/>
+            <category term="Agriculture"/>
+
+        <updated>2023-10-17T05:49:11-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/74/gisdata-io-2.png" alt="" />
+                    In today's data-driven world, geospatial data is the backbone of many industries, from urban planning and environmental monitoring to logistics and transportation. Yet, the process of finding, accessing, and utilizing this data has often been a daunting and time-consuming task. Enter GISData.io - a groundbreaking&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/74/gisdata-io-2.png" class="type:primaryImage" alt="" /></p>
+                <p>In today's data-driven world, geospatial data is the backbone of many industries, from urban planning and environmental monitoring to logistics and transportation. Yet, the process of finding, accessing, and utilizing this data has often been a daunting and time-consuming task. Enter <a href="https://gisdata.io" target="_blank" rel="noopener noreferrer"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a> - a groundbreaking geospatial data search engine designed to transform the way professionals and enthusiasts alike interact with this invaluable resource.</p>
+<h2><strong>Unparalleled Access to Geospatial Data</strong></h2>
+<p>GISData.io is not just another search engine. It's a specialized platform dedicated solely to geospatial data. With the ability to search over 600,000 layers from more than 1,300 servers, users are granted unparalleled access to a vast repository of data, all in one centralized location.</p>
+<p class="align-center post__lead msg msg--highlight "><strong><a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer">Start your search on GISData.io now!</a></strong></p>
+<h2><strong>Time-Saving and Efficient</strong></h2>
+<p>The beauty of GISData.io lies in its outcome-based approach. By consolidating such a vast amount of geospatial data under one roof, the platform eliminates the need to hop between multiple servers or sift through countless databases. Users can now find the exact data they need in a fraction of the time it would traditionally take. This efficiency not only saves time but also reduces the potential for errors and oversights that can occur when juggling multiple data sources.</p>
+<p class="msg msg--highlight  align-center"><strong><a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer">Speed up your data search process with GISData.io today.</a></strong><a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer"></a></p>
+<p> </p>
+<h2><strong>A Unified Platform for All</strong></h2>
+<p>Whether you're a seasoned GIS professional or someone just starting in the field, GISData.io is tailored to cater to all levels of expertise. Its intuitive interface ensures that even those new to the world of geospatial data can navigate and extract the information they need with ease. For the more experienced, the platform's advanced search capabilities and extensive data library offer a wealth of resources to dive deep into.</p>
+<p class="align-center msg msg--highlight "><strong><a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer">Dive in and explore now.</a></strong></p>
+<h2><strong>Future-Proofing Geospatial Data Search</strong></h2>
+<p>As the world of data continues to expand, so too does the need for efficient and effective search tools. GISData.io is not just a solution for today but a platform designed with the future in mind. As more servers and layers are added to the world of geospatial data, GISData.io is poised to incorporate them, ensuring that users always have access to the most comprehensive and up-to-date information available.</p>
+<p class="align-center msg msg--highlight "><strong><a href="https://search.gisdata.io/" target="_blank" rel="noopener noreferrer">Stay ahead of the curve with the most comprehensive data source. Join GISData.io.</a></strong></p>
+<h3><strong>Conclusion</strong></h3>
+<p>In the ever-evolving landscape of geospatial data, GISData.io stands out as a beacon of innovation and efficiency. Its outcome-based approach ensures that users can save valuable time and resources, focusing on what truly matters: leveraging data to drive insights, make informed decisions, and create a better world. Dive into the world of GISData.io and experience the future of geospatial data search today.</p>
+<p class="msg msg--highlight  align-center"><strong><a href="https://search.gisdata.io/" target="_blank" rel="noopener noreferrer">Ready to revolutionize your geospatial data experience? Get started with GISData.io now.</a></strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Search Engine Alpha v0.1 Release</title>
         <author>
@@ -1526,7 +1577,7 @@
             <category term="GIS"/>
             <category term="Analytics"/>
 
-        <updated>2023-05-16T10:54:47-04:00</updated>
+        <updated>2023-11-09T09:11:45-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/40/location-health.JPG" alt="" />
@@ -1577,6 +1628,7 @@
 <p data-selectable-paragraph=""> </p>
 <h1 id="7f1e" class="nb nc ge be nd ne nf ng nh ni nj nk nl nm nn no np nq nr ns nt nu nv nw nx ny bj" data-selectable-paragraph="">Collaborate with us</h1>
 <p id="f2f7" class="pw-post-body-paragraph md me ge mf b mg nz mi mj mk oa mm mn mo ob mq mr ms oc mu mv mw od my mz na fx bj" data-selectable-paragraph="">If you have any ideas about how to make it better or if you want to report any bugs or want to talk more about any possible collaborations, feel free to reach out to<strong><a href="https://www.linkedin.com/in/ramizsami/" target="_blank" rel="nofollow ugc noopener noreferrer"> </a><a class="af mc" href="https://www.linkedin.com/in/ramizsami/" rel="noopener ugc nofollow" target="_blank">me</a> </strong>or <strong><a class="af mc" href="https://www.linkedin.com/in/alex-schmid-99a910a/" rel="noopener ugc nofollow" target="_blank">Alex Schmid</a></strong> on Linkedin.</p>
+<p data-selectable-paragraph="">Article originally posted on <i><u></u></i><span style="color: #f2f2f5;"><strong><i><u><a href="https://periegesis.com/blogs/location-health-a-tool-to-check-the-environmental-health-score-of-any-location" target="_blank" rel="noopener noreferrer">Here.</a></u></i></strong></span> </p>
             ]]>
         </content>
     </entry>
@@ -1592,7 +1644,7 @@
             <category term="GIS"/>
             <category term="Analytics"/>
 
-        <updated>2023-05-16T10:47:08-04:00</updated>
+        <updated>2023-11-09T09:12:27-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/39/GEO-ANALYSIS.JPG" alt="" />
@@ -1670,6 +1722,7 @@
 <div class="ab ca">
 <div class="ch bg fb fc fd fe">
 <p id="a4f6" class="pw-post-body-paragraph mm mn ge mo b mp mq mr ms mt mu mv mw mx my mz na nb nc nd ne nf ng nh ni nj fx bj" data-selectable-paragraph="">To summarize, the potential of geospatial data analytics in public administration is vast, offering unprecedented opportunities for improving public safety, health, and overall quality of life. These things weren’t possible before these tools were available. By using these tools, public administrators can make informed, data-driven decisions that have a meaningful impact on the communities they serve.</p>
+<p data-selectable-paragraph="">Article originally posted <span style="text-decoration: underline;"><strong><a href="https://periegesis.com/blogs/geospatial-data-analytics-the-key-to-effective-public-administration" target="_blank" rel="noopener noreferrer">here.</a></strong></span></p>
 </div>
 </div>
 </div>
@@ -1687,18 +1740,18 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-06-05T09:15:24-04:00</updated>
+        <updated>2023-11-09T09:24:18-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/38/stephen-poore-richmond-virginia.jpg" alt="" />
-                    Virginia GIS Data The following page includes links to various geospatial data sources for the state of California. The majority of these data sources provide GIS data in formats compatible with ArcGIS and QGIS through the REST Services. The Virginia Geographic Information Network is the&hellip;
+                    Virginia GIS Data The following page includes links to various geospatial data sources for the state of Virginia. The majority of these data sources provide GIS data in formats compatible with ArcGIS and QGIS through the REST Services. The Virginia Geographic Information Network is the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/38/stephen-poore-richmond-virginia.jpg" class="type:primaryImage" alt="" /></p>
                 <h1>Virginia GIS Data</h1>
-<p>The following page includes links to various geospatial data sources for the state of California. The majority of these data sources provide GIS data in formats compatible with ArcGIS and QGIS through the REST Services.</p>
+<p>The following page includes links to various geospatial data sources for the state of Virginia. The majority of these data sources provide GIS data in formats compatible with ArcGIS and QGIS through the REST Services.</p>
 <p data-pm-slice="1 3 []">The <a href="https://vgin.maps.arcgis.com/" target="_blank" rel="nofollow noopener noreferrer">Virginia Geographic Information Network</a> is the state's official public website for geospatial data. It provides access to many different types of data, including:</p>
 <ul>
 <li>
@@ -1714,6 +1767,8 @@
 <p>Transportation Data (e.g., road networks)</p>
 </li>
 </ul>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <h2>List of REST Services:</h2>
 <div id="restServices"></div>
 <p>
@@ -1736,7 +1791,7 @@
             <category term="Software"/>
             <category term="GIS"/>
 
-        <updated>2023-08-27T10:24:48-04:00</updated>
+        <updated>2023-11-09T09:13:06-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/37/keplergl.jpg" alt="" />
@@ -1895,7 +1950,7 @@
 <blockquote>
 <p><em class="rk">I am Ramiz Sami. I climb mountains, lift heavy weights and build WebGIS solutions. Feel free to get connected with me on<strong> </strong></em><span style="text-decoration: underline;"><strong><a class="ae ly" href="https://www.linkedin.com/in/ramizsami/" rel="noopener ugc nofollow" target="_blank"><em class="rk">Linkedin</em></a></strong><em class="rk">.</em></span></p>
 </blockquote>
-<p>Article originally posted on <span style="text-decoration: underline;"><em><strong><a href="https://medium.com/@ramizsami/webgis-development-in-2023-a-guide-to-the-tools-and-technologies-i-use-for-building-advanced-9bd3277b10dd">Medium</a></strong></em></span>. </p>
+<p>Article originally posted on <i><u></u></i><span style="color: #f2f2f5;"><strong><i><u><a href="https://periegesis.com/blogs/webgis-development-in-2023-a-guide-to-the-tools-and-technologies-i-use-for-building-advanced-geospatial-applications" target="_blank" rel="noopener noreferrer">Here.</a></u></i></strong></span></p>
 <p> </p>
             ]]>
         </content>
@@ -2311,18 +2366,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-02-02T12:25:42-05:00</updated>
+        <updated>2023-11-09T09:26:49-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/34/cell-towers-by-county-dhs.JPG" alt="" />
-                    DHS REST Services Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    DHS GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/34/cell-towers-by-county-dhs.JPG" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">DHS REST Services</h2>
-<p>Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">DHS GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="DHS"></script>
@@ -2341,18 +2398,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-02-02T13:50:13-05:00</updated>
+        <updated>2023-11-09T09:27:20-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/33/alaska-nps.JPG" alt="" />
-                    NPS REST Services Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    NPS GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/33/alaska-nps.JPG" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">NPS REST Services</h2>
-<p>Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">NPS GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="NPS"></script>
@@ -2371,18 +2430,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-02-02T17:01:52-05:00</updated>
+        <updated>2023-11-09T09:27:44-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/32/soil-index-alaska.JPG" alt="" />
-                    DOI REST Services Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    DOI GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/32/soil-index-alaska.JPG" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">DOI REST Services</h2>
-<p>Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">DOI GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="DOI"></script>
@@ -2401,18 +2462,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-02-02T13:20:20-05:00</updated>
+        <updated>2023-11-09T09:28:05-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/31/doc-census-state-counties.JPG" alt="" />
-                    DOC REST Services Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    DOC GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/31/doc-census-state-counties.JPG" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">DOC REST Services</h2>
-<p>Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">DOC GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="DOC"></script>
@@ -2431,18 +2494,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-02-01T17:35:51-05:00</updated>
+        <updated>2023-11-09T09:28:32-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/30/dod-locations.png" alt="" />
-                    DOD REST Services Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    DOD GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/30/dod-locations.png" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">DOD REST Services</h2>
-<p>Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">DOD GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="DOD"></script>
@@ -2461,18 +2526,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-02-01T17:11:13-05:00</updated>
+        <updated>2023-11-09T09:28:47-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/29/energy-infrastructure.png" alt="" />
-                    DOE REST Services Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    DOE GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/29/energy-infrastructure.png" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">DOE REST Services</h2>
-<p>Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">DOE GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="DOE"></script>
@@ -2491,18 +2558,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-02-02T12:09:32-05:00</updated>
+        <updated>2023-11-09T09:29:16-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/28/tampa-dot-fatal-crashes.JPG" alt="" />
-                    DOT REST Services Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    DOT GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/28/tampa-dot-fatal-crashes.JPG" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">DOT REST Services</h2>
-<p>Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">DOT GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="DOT"></script>
@@ -2521,18 +2590,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-02-01T01:48:30-05:00</updated>
+        <updated>2023-11-09T09:29:34-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/27/output-epa.png" alt="" />
-                    EPA REST Services Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    EPA GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/27/output-epa.png" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">EPA REST Services</h2>
-<p>Rest Services are a fancy GIS way of saying online datasource of database. The REST Service serves the data over the internet. These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">EPA GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="EPA"></script>
@@ -2597,7 +2668,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-06-05T09:15:49-04:00</updated>
+        <updated>2023-11-09T09:30:12-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/25/maarten-van-den-heuvel-golden-gate-bridge-california.jpg" alt="" />
@@ -2624,6 +2695,8 @@
 <p>Transportation Data (e.g., road networks)</p>
 </li>
 </ul>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <h2>List of REST Services:</h2>
 <div id="restServices"></div>
 <p>
@@ -2645,7 +2718,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-06-05T09:16:07-04:00</updated>
+        <updated>2023-11-09T09:30:28-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/24/mj-tangonan-austin-texas.jpg" alt="" />
@@ -2672,6 +2745,8 @@
 <p>Transportation Data (e.g., road networks)</p>
 </li>
 </ul>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <h2>List of REST Services:</h2>
 <div id="restServices"></div>
 <p>
@@ -2693,18 +2768,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-01-25T12:11:33-05:00</updated>
+        <updated>2023-11-09T09:31:49-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/15/slr-dem-noaa.JPG" alt="" />
-                    NOAA REST Services These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    NOAA GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/15/slr-dem-noaa.JPG" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">NOAA REST Services</h2>
-<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.</p>
+                <h2 data-pm-slice="1 1 []">NOAA GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="NOAA"></script>
@@ -2761,18 +2838,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-01-25T12:12:28-05:00</updated>
+        <updated>2023-11-09T09:30:54-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/17/nasa-entire-world.jpg" alt="" />
-                    NASA REST Services These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    NASA GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/17/nasa-entire-world.jpg" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">NASA REST Services</h2>
-<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">NASA GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="NASA"></script>
@@ -2791,18 +2870,20 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-01-25T12:08:14-05:00</updated>
+        <updated>2023-11-09T09:31:34-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/16/usda-fs-precipitation.JPG" alt="" />
-                    USDA REST Services These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction.
+                    USDA GIS Data Sources These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://opensourcegisdata.com/media/posts/16/usda-fs-precipitation.JPG" class="type:primaryImage" alt="" /></p>
-                <h2 data-pm-slice="1 1 []">USDA REST Services</h2>
-<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+                <h2 data-pm-slice="1 1 []">USDA GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="USDA"></script>
@@ -3112,7 +3193,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-01-21T15:34:19-05:00</updated>
+        <updated>2023-11-09T09:33:01-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/13/gnss-in-field.jpg" alt="" />
@@ -3131,8 +3212,10 @@
 <p data-pm-slice="1 1 []">The USGS's mission is to study and report on, primarily, natural resources and the environment. It provides scientific data regarding natural hazards, water quality, topography and climate change. The USGS also provides information on the nation's ecosystems and land cover patterns so that they can be used as a management tool for national security purposes.</p>
 <h2 data-pm-slice="1 1 []">It provides scientific data regarding natural hazards, water quality, topography and climate change.</h2>
 <p data-pm-slice="1 1 []">The USGS operates over 250 different facilities around the country, with offices located in every state and territory. These offices are run by scientists who collect, analyze and interpret data on natural hazards such as earthquakes or volcanic eruptions; water quality conditions, especially those related to drinking water supplies; coastal changes caused by erosion or flooding; land use planning decisions such as those related to agriculture; subsurface mineral exploration for energy production purposes; global climate change trends; mapping for national security applications like military bases and missile silos and nuclear weapons; geological surveys designed specifically for private investors interested in buying lots of land.</p>
-<h2 data-pm-slice="1 1 []">USGS REST Services</h2>
-<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a REST service connction. </p>
+<h2 data-pm-slice="1 1 []">USGS GIS Data Sources</h2>
+<p>These sources can be loaded into QGIS and ArcGIS applications by establishing a ArcREST service connection. </p>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
 <script src="cartobin-fed-api.js" reqfederal="USGS"></script>
@@ -3325,7 +3408,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-06-05T09:16:39-04:00</updated>
+        <updated>2023-11-09T09:37:57-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/4/ryan-parker-miami-aerial.jpg" alt="" />
@@ -3353,6 +3436,8 @@
 <p>Transportation Data (e.g., road networks)</p>
 </li>
 </ul>
+<h2>Search Underlying Datasets From These Sources</h2>
+<p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <h2>List of REST Services:</h2>
 <div id="restServices"></div>
 <p>
