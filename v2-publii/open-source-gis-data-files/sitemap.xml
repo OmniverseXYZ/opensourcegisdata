@@ -14,7 +14,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/about-open-source-gis-data.html</loc>
-<lastmod>2023-01-25T11:54:15-05:00</lastmod>
+<lastmod>2024-06-06T01:43:13-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/6/about-us.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -305,14 +305,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://opensourcegisdata.com/cartobin-gis-servers-web-app.html</loc>
-<lastmod>2023-01-20T17:01:51-05:00</lastmod>
-<image:image>
-<image:loc>https://opensourcegisdata.com/media/posts/8/globe-map.webp</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://opensourcegisdata.com/contact-open-source-gis-data.html</loc>
 <lastmod>2023-08-28T01:44:56-04:00</lastmod>
 <image:image>
@@ -322,7 +314,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/department-of-commerce-gis-data-sources.html</loc>
-<lastmod>2023-11-09T09:28:05-05:00</lastmod>
+<lastmod>2024-06-06T01:46:35-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/31/doc-census-state-counties.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -330,7 +322,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/department-of-defense-geospatial-data-sources.html</loc>
-<lastmod>2023-11-09T09:28:32-05:00</lastmod>
+<lastmod>2024-06-06T01:46:48-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/30/dod-locations.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -338,7 +330,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/department-of-energy-gis-data-sources.html</loc>
-<lastmod>2023-11-09T09:28:47-05:00</lastmod>
+<lastmod>2024-06-06T01:47:00-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/29/energy-infrastructure.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -346,7 +338,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/department-of-homeland-security-geospatial-data-sources.html</loc>
-<lastmod>2023-11-09T09:26:49-05:00</lastmod>
+<lastmod>2024-06-06T01:43:45-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/34/cell-towers-by-county-dhs.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -354,7 +346,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/department-of-the-interior-gis-data-sources.html</loc>
-<lastmod>2023-11-09T09:27:44-05:00</lastmod>
+<lastmod>2024-06-06T01:44:30-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/32/soil-index-alaska.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -362,7 +354,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/department-of-transportation-gis-data-sources.html</loc>
-<lastmod>2023-11-09T09:29:16-05:00</lastmod>
+<lastmod>2024-06-06T01:47:17-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/28/tampa-dot-fatal-crashes.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -370,7 +362,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/environmental-protection-agency-list-of-gis-rest-services.html</loc>
-<lastmod>2023-11-09T09:29:34-05:00</lastmod>
+<lastmod>2024-06-06T01:47:31-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/27/output-epa.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -386,7 +378,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/florida-data-sources.html</loc>
-<lastmod>2023-11-09T09:37:57-05:00</lastmod>
+<lastmod>2024-06-06T01:37:12-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/4/ryan-parker-miami-aerial.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -410,7 +402,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/georgia-data-sources.html</loc>
-<lastmod>2023-06-05T09:17:00-04:00</lastmod>
+<lastmod>2024-06-06T01:37:56-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/5/kyle-sudu-atlanta-night.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -469,6 +461,14 @@
 </image:image>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/36/Remote_Sensing_Illustration.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/gis-data-africa-ugandas-top-sources.html</loc>
+<lastmod>2024-06-03T23:15:57-04:00</lastmod>
+<image:image>
+<image:loc>https://opensourcegisdata.com/media/posts/75/uganda-data-sources.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -610,7 +610,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/national-aeronautics-and-space-administration-nasa-geospatial-data-sources.html</loc>
-<lastmod>2023-11-09T09:30:54-05:00</lastmod>
+<lastmod>2024-06-06T01:45:55-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/17/nasa-entire-world.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -618,7 +618,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/national-oceanic-and-atmospheric-administration-noaa.html</loc>
-<lastmod>2023-11-09T09:31:49-05:00</lastmod>
+<lastmod>2024-06-06T01:45:09-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/15/slr-dem-noaa.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -626,7 +626,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/national-park-service-geospatial-data-sources.html</loc>
-<lastmod>2023-11-09T09:27:20-05:00</lastmod>
+<lastmod>2024-06-06T01:44:02-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/33/alaska-nps.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -823,7 +823,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/state-of-california-gis-data-sources.html</loc>
-<lastmod>2023-11-09T09:30:12-05:00</lastmod>
+<lastmod>2024-06-06T01:47:48-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/25/maarten-van-den-heuvel-golden-gate-bridge-california.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -831,7 +831,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/state-of-texas-geospatial-data-sources.html</loc>
-<lastmod>2023-11-09T09:30:28-05:00</lastmod>
+<lastmod>2024-06-06T01:46:12-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/24/mj-tangonan-austin-texas.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -839,6 +839,9 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/tags/about/</loc>
+</url>
+<url>
+<loc>https://opensourcegisdata.com/tags/africa/</loc>
 </url>
 <url>
 <loc>https://opensourcegisdata.com/tags/agriculture/</loc>
@@ -951,7 +954,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/united-states-department-of-agriculture-usda-gis-data-sources.html</loc>
-<lastmod>2023-11-09T09:31:34-05:00</lastmod>
+<lastmod>2024-06-06T01:45:32-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/16/usda-fs-precipitation.JPG</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -959,7 +962,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/united-states-geological-survey-usgs.html</loc>
-<lastmod>2023-11-09T09:33:01-05:00</lastmod>
+<lastmod>2024-06-06T01:44:49-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/13/gnss-in-field.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -991,7 +994,7 @@
 </url>
 <url>
 <loc>https://opensourcegisdata.com/virginia-geospatial-data-sources.html</loc>
-<lastmod>2023-11-09T09:24:18-05:00</lastmod>
+<lastmod>2024-06-06T01:43:34-04:00</lastmod>
 <image:image>
 <image:loc>https://opensourcegisdata.com/media/posts/38/stephen-poore-richmond-virginia.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>

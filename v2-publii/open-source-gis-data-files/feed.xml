@@ -3,12 +3,186 @@
     <title>Open Source GIS Data</title>
     <link href="https://opensourcegisdata.com/feed.xml" rel="self" />
     <link href="https://opensourcegisdata.com" />
-    <updated>2023-11-09T09:37:57-05:00</updated>
+    <updated>2024-06-06T01:47:48-04:00</updated>
     <author>
         <name>Parker Dinkins</name>
     </author>
     <id>https://opensourcegisdata.com</id>
 
+    <entry>
+        <title>GIS Data Africa: Uganda&#x27;s Top Sources</title>
+        <author>
+            <name>Parker Dinkins</name>
+        </author>
+        <link href="https://opensourcegisdata.com/gis-data-africa-ugandas-top-sources.html"/>
+        <id>https://opensourcegisdata.com/gis-data-africa-ugandas-top-sources.html</id>
+        <media:content url="https://opensourcegisdata.com/media/posts/75/uganda-data-sources.webp" medium="image" />
+            <category term="International"/>
+            <category term="GIS"/>
+            <category term="Data Source"/>
+            <category term="Agriculture"/>
+            <category term="Africa"/>
+
+        <updated>2024-06-03T23:15:57-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://opensourcegisdata.com/media/posts/75/uganda-data-sources.webp" alt="" />
+                    When it comes to African GIS data, Uganda stands out as a country with rich and diverse datasets essential for geospatial analysis. Whether you're a researcher, analyst, or developer, finding reliable and accurate GIS data sources for Uganda can significantly enhance your projects. In this&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://opensourcegisdata.com/media/posts/75/uganda-data-sources.webp" class="type:primaryImage" alt="" /></p>
+                <p>When it comes to African GIS data, Uganda stands out as a country with rich and diverse datasets essential for geospatial analysis. Whether you're a researcher, analyst, or developer, finding reliable and accurate GIS data sources for Uganda can significantly enhance your projects. In this article, we explore the top data repositories and resources that provide comprehensive geospatial and statistical data for Uganda. From demographic information to environmental and economic data, these sources offer invaluable insights for various applications. Dive into our guide to discover the best GIS data for Uganda and elevate your geospatial projects to the next level.</p>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1hvgjsp1717o">Data Sources</a>
+<ul>
+<li><a href="#mcetoc_1hvgjsp1717p">Regional Centre For Mapping of Resources for Development</a>
+<ul>
+<li><a href="#mcetoc_1hvgjsp1717q">Land Degradation Monitoring and Assessment (2018-2020)</a></li>
+<li><a href="#mcetoc_1hvgjsp1717r">Open Geographical Regional Reference Vector Database</a>
+<ul>
+<li><a href="#mcetoc_1hvgjsp1717s">Detailed Layers Available</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1hvgjsp1717t">Uganda National Electrification Strategy Data</a></li>
+<li><a href="#mcetoc_1hvgjsp1717u">Bio-Fuel, Conservation, and Food Crops in Uganda</a>
+<ul>
+<li><a href="#mcetoc_1hvgjsp1717v">Key Features of the Data Source</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1hvgjsp17180">Geology, Geothermal, Mineral Occurrences, and Topographic Maps Data Source</a></li>
+<li><a href="#mcetoc_1hvgjsp17181">Uganda Oil and Gas Operations Data Source</a>
+<ul>
+<li><a href="#mcetoc_1hvgjsp17182">Key Data Layers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1hvgjsp17183">Summary</a>
+<ul>
+<li><a href="#mcetoc_1hvgjsp17184">Key Highlights</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="mcetoc_1hvgjsp1717o">Data Sources</h2>
+<h3 id="mcetoc_1hvgjsp1717p">Regional Centre For Mapping of Resources for Development</h3>
+<blockquote>
+<p><span style="text-decoration: underline;"><strong><a href="https://maps.rcmrd.org/arcgis/rest/services/Uganda" target="_blank" rel="noopener noreferrer">https://maps.rcmrd.org/arcgis/rest/services/Uganda</a></strong></span></p>
+</blockquote>
+<h4 id="mcetoc_1hvgjsp1717q">Land Degradation Monitoring and Assessment (2018-2020)</h4>
+<p>This service offers detailed land degradation monitoring and assessment products developed using the <a href="https://www.fao.org/land-water/land/land-governance/land-resources-planning-toolbox/category/details/en/c/1236444/" target="_blank" rel="noopener noreferrer">Revised Universal Soil Loss Equation (RUSLE)</a>. Key parameters include soil erosivity, slope, rainfall intensity, population, and land cover. These datasets are essential for understanding soil erosion and land degradation patterns across Uganda.</p>
+<h4 id="mcetoc_1hvgjsp1717r">Open Geographical Regional Reference Vector Database</h4>
+<p>The <a href="https://maps.rcmrd.org/arcgis/rest/services/Uganda/Uganda_OGRVD/MapServer" target="_blank" rel="noopener noreferrer">Open Geographical Regional Reference Vector Database</a>, available at a 1:1 million scale, focuses on water and agro-ecological zoning. This comprehensive and consistent geographical database is developed using open data sources. Key features include:</p>
+<h5 id="mcetoc_1hvgjsp1717s">Detailed Layers Available</h5>
+<p>The following layers are available within this service, providing extensive data for various applications:</p>
+<ul>
+<li>Subcountry boundary </li>
+<li>National boundary </li>
+<li>Districts boundary </li>
+<li>Waterbodies </li>
+<li>Wetland Area PerCapita </li>
+<li>Wetlands </li>
+<li>Wetlands Extent and Types </li>
+<li>Protected Areas (2007) </li>
+<li>Education Facilities </li>
+<li>Health Facilities </li>
+<li>Uganda Towns </li>
+<li>DEM_SRTM30meters </li>
+<li>Isobioclimates </li>
+<li>Landuse_landcover </li>
+<li>Terrestrial_Ecosystem </li>
+</ul>
+<hr>
+<h3 id="mcetoc_1hvgjsp1717t">Uganda National Electrification Strategy Data</h3>
+<blockquote>
+<p><span style="text-decoration: underline;"><strong><a href="https://ied-sa.fr:6443/arcgis/rest/services/UGANDA" target="_blank" rel="noopener noreferrer">https://ied-sa.fr:6443/arcgis/rest/services/UGANDA</a></strong></span></p>
+</blockquote>
+<p>The Uganda National Electrification Strategy Data offers an invaluable resource for understanding and advancing the country's electrification efforts. This comprehensive dataset includes information on solar and hydro mini-grids, grid extensions, and various energy infrastructure components. Researchers and policymakers can use this data to identify potential villages for Solar Home Systems (SHS) and to plan the installation of solar and hydro mini-grids, enhancing rural electrification.<br><br>Additionally, the dataset provides detailed insights into the national power grid, including existing and planned networks, substations, and transformers. It also includes data on medium voltage (MV) networks and operational and planned networks managed by the Uganda Electricity Transmission Company Limited (UETCL). This information is crucial for optimizing grid extensions and improving service delivery across Uganda. The inclusion of administrative boundaries such as service territories, parishes, and the national boundary further supports detailed geographic and demographic analysis, making this dataset a vital tool for driving the nation's electrification strategy.</p>
+<hr>
+<h3 id="mcetoc_1hvgjsp1717u">Bio-Fuel, Conservation, and Food Crops in Uganda</h3>
+<blockquote>
+<p><span style="text-decoration: underline;"><strong><a href="http://maps.continentalshelf.org/ARCGIS/rest/services/uganda/MapServer" target="_blank" rel="noopener noreferrer">http://maps.continentalshelf.org/ARCGIS/rest/services/uganda/MapServer</a></strong></span></p>
+</blockquote>
+<p>The Bio-Fuel, Conservation, and Food Crops interactive map provides a crucial data source for assessing land resources in Uganda suitable for bio-fuel feedstock production. Developed under the National Environment Information Network and executed by the National Environment Management Authority (NEMA) of Uganda, this map is an invaluable tool for land use planning and policy development.</p>
+<h4 id="mcetoc_1hvgjsp1717v">Key Features of the Data Source</h4>
+<p>This interactive map offers comprehensive layers that highlight land suitability and potential conflicts between bio-fuel feedstocks and food crops. It integrates various datasets to provide a detailed analysis of land resources in Uganda. The layers include:</p>
+<ul>
+<li>Boundaries</li>
+<li>Lakes</li>
+<li>Districts</li>
+<li>Protected Areas</li>
+<li>Wetlands</li>
+<li>Jatropha, Oil Palm, and Sugar Cane suitability and recommendations</li>
+<li>Conflict/overlap data for bio-fuel feedstocks and maize</li>
+<li>Environmental data: Precipitation, Temperature (maximum and minimum), Soil Productivity, Topography</li>
+</ul>
+<p>Prepared by UNEP/GRID-Arendal and Hugo Ahlenius from Nordpil, this data source is essential for stakeholders involved in sustainable bio-fuel development, conservation efforts, and agricultural planning. By providing detailed and interactive geographical information, it helps in making informed decisions to balance bio-fuel production with food security and environmental conservation.</p>
+<hr>
+<div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2" dir="auto" data-message-author-role="assistant" data-message-id="c30e4224-d641-4c8c-b481-5499e699e633">
+<div class="flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<h3 id="mcetoc_1hvgjsp17180">Geology, Geothermal, Mineral Occurrences, and Topographic Maps Data Source</h3>
+<blockquote>
+<p><span style="text-decoration: underline;"><strong><a href="https://miningcadastre.minerals.go.ug/arcgis/rest/services" target="_blank" rel="noopener noreferrer">https://miningcadastre.minerals.go.ug/arcgis/rest/services</a></strong></span></p>
+</blockquote>
+<p>Explore the essential datasets for Uganda's geology, geothermal resources, mineral occurrences, and topography. This data source is vital for anyone involved in natural resource management, geological research, and environmental planning in Uganda.</p>
+<p>Extensive data on mineral deposits, including rare earth elements, lithium, industrial minerals, and metallic minerals. These datasets are essential for mining and exploration activities.</p>
+<hr>
+<h3 id="mcetoc_1hvgjsp17181">Uganda Oil and Gas Operations Data Source</h3>
+<blockquote>
+<p><span style="text-decoration: underline;"><strong><a href="https://paumaps.pau.go.ug/arcgis/rest/services" target="_blank" rel="noopener noreferrer">https://paumaps.pau.go.ug/arcgis/rest/services</a></strong></span></p>
+</blockquote>
+<p>Discover comprehensive datasets for Uganda's oil and gas operations, crucial for energy sector planning and resource management. This data source provides vital information on key infrastructure and operational areas within the oil and gas industry in Uganda.</p>
+<h4 id="mcetoc_1hvgjsp17182">Key Data Layers</h4>
+<ol>
+<li>
+<p><strong>Towns</strong></p>
+<ul>
+<li>Detailed mapping of towns involved in or impacted by oil and gas operations.</li>
+</ul>
+</li>
+<li>
+<p><strong>Pipeline Facility</strong></p>
+<ul>
+<li>Information on pipeline facilities, including locations and infrastructure details.</li>
+</ul>
+</li>
+<li>
+<p><strong>KP_10km</strong></p>
+<ul>
+<li>Data on key points along the pipeline, marked every 10 kilometers, essential for operational monitoring and management.</li>
+</ul>
+</li>
+</ol>
+<p>Access these layers through various ArcGIS platforms, including ArcGIS JavaScript, ArcGIS Online Map Viewer, ArcGIS Earth, and ArcGIS Pro, to enhance your understanding and management of Uganda's oil and gas resources. Utilize this data for effective planning, development, and operational efficiency in the energy sector.</p>
+<hr>
+<h2 id="mcetoc_1hvgjsp17183">Summary</h2>
+<p>Explore comprehensive data sources for Uganda's natural resources, including bio-fuels, geology, geothermal energy, mineral occurrences, topographic maps, and oil and gas operations. This article highlights critical datasets essential for researchers, policymakers, and developers involved in resource management, environmental planning, and sustainable development in Uganda.</p>
+<h3 id="mcetoc_1hvgjsp17184">Key Highlights</h3>
+<ul>
+<li><strong>Bio-Fuel, Conservation, and Food Crops Data:</strong> Assess land resources for bio-fuel feedstock production, understand potential conflicts with food crops, and explore policy options for sustainable development.</li>
+<li><strong>Geology, Geothermal, Mineral Occurrences, and Topographic Maps:</strong> Access detailed geological maps, geothermal data, mineral deposits, and high-resolution topographic maps to enhance exploration and environmental planning.</li>
+<li><strong>Oil and Gas Operations:</strong> Gain insights into Uganda's oil and gas infrastructure, including towns, pipeline facilities, and key operational points.</li>
+</ul>
+<p>Leverage these datasets to make informed decisions, optimize resource utilization, and support sustainable development initiatives in Uganda.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>GISData.io: Revolutionizing Geospatial Data Search</title>
         <author>
@@ -1740,7 +1914,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:24:18-05:00</updated>
+        <updated>2024-06-06T01:43:34-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/38/stephen-poore-richmond-virginia.jpg" alt="" />
@@ -1772,7 +1946,7 @@
 <h2>List of REST Services:</h2>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-state-api.js" reqstate="Virginia"></script>
+<script src="gisapi.js" reqstate="Virginia"></script>
 </p>
 <h2 data-pm-slice="1 1 []">Conclusion</h2>
 <p>This is the most comprehensive list of geospatial data sources for the state of Virginia. We hope that you find this information useful, and we invite you to <a href="https://opensourcegisdata.com/contact-open-source-gis-data.html">contact us</a> with any questions or comments.</p>
@@ -2366,7 +2540,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:26:49-05:00</updated>
+        <updated>2024-06-06T01:43:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/34/cell-towers-by-county-dhs.JPG" alt="" />
@@ -2382,7 +2556,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="DHS"></script>
+<script src="gisapi.js" reqfederal="DHS"></script>
 </p>
             ]]>
         </content>
@@ -2398,7 +2572,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:27:20-05:00</updated>
+        <updated>2024-06-06T01:44:02-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/33/alaska-nps.JPG" alt="" />
@@ -2414,7 +2588,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="NPS"></script>
+<script src="gisapi.js" reqfederal="NPS"></script>
 </p>
             ]]>
         </content>
@@ -2430,7 +2604,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:27:44-05:00</updated>
+        <updated>2024-06-06T01:44:30-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/32/soil-index-alaska.JPG" alt="" />
@@ -2446,7 +2620,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="DOI"></script>
+<script src="gisapi.js" reqfederal="DOI"></script>
 </p>
             ]]>
         </content>
@@ -2462,7 +2636,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:28:05-05:00</updated>
+        <updated>2024-06-06T01:46:35-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/31/doc-census-state-counties.JPG" alt="" />
@@ -2478,7 +2652,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="DOC"></script>
+<script src="gisapi.js" reqfederal="DOC"></script>
 </p>
             ]]>
         </content>
@@ -2494,7 +2668,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:28:32-05:00</updated>
+        <updated>2024-06-06T01:46:48-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/30/dod-locations.png" alt="" />
@@ -2510,7 +2684,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="DOD"></script>
+<script src="gisapi.js" reqfederal="DOD"></script>
 </p>
             ]]>
         </content>
@@ -2526,7 +2700,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:28:47-05:00</updated>
+        <updated>2024-06-06T01:47:00-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/29/energy-infrastructure.png" alt="" />
@@ -2542,7 +2716,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="DOE"></script>
+<script src="gisapi.js" reqfederal="DOE"></script>
 </p>
             ]]>
         </content>
@@ -2558,7 +2732,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:29:16-05:00</updated>
+        <updated>2024-06-06T01:47:17-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/28/tampa-dot-fatal-crashes.JPG" alt="" />
@@ -2574,7 +2748,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="DOT"></script>
+<script src="gisapi.js" reqfederal="DOT"></script>
 </p>
             ]]>
         </content>
@@ -2590,7 +2764,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:29:34-05:00</updated>
+        <updated>2024-06-06T01:47:31-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/27/output-epa.png" alt="" />
@@ -2606,7 +2780,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="EPA"></script>
+<script src="gisapi.js" reqfederal="EPA"></script>
 </p>
             ]]>
         </content>
@@ -2668,7 +2842,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:30:12-05:00</updated>
+        <updated>2024-06-06T01:47:48-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/25/maarten-van-den-heuvel-golden-gate-bridge-california.jpg" alt="" />
@@ -2700,7 +2874,7 @@
 <h2>List of REST Services:</h2>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-state-api.js" reqstate="California"></script>
+<script src="gisapi.js" reqstate="California"></script>
 </p>
 <h2 data-pm-slice="1 1 []">Conclusion</h2>
 <p>This is the most comprehensive list of geospatial data sources for the state of California. We hope that you find this information useful, and we invite you to <a href="https://opensourcegisdata.com/contact-open-source-gis-data.html">contact us</a> with any questions or comments.</p>
@@ -2718,7 +2892,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:30:28-05:00</updated>
+        <updated>2024-06-06T01:46:12-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/24/mj-tangonan-austin-texas.jpg" alt="" />
@@ -2750,7 +2924,7 @@
 <h2>List of REST Services:</h2>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-state-api.js" reqstate="Texas"></script>
+<script src="gisapi.js" reqstate="Texas"></script>
 </p>
 <h2 data-pm-slice="1 1 []">Conclusion</h2>
 <p>This is the most comprehensive list of geospatial data sources for the state of Texas. We hope that you find this information useful, and we invite you to <a href="https://opensourcegisdata.com/contact-open-source-gis-data.html">contact us</a> with any questions or comments.</p>
@@ -2768,7 +2942,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:31:49-05:00</updated>
+        <updated>2024-06-06T01:45:09-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/15/slr-dem-noaa.JPG" alt="" />
@@ -2784,7 +2958,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="NOAA"></script>
+<script src="gisapi.js" reqfederal="NOAA"></script>
 </p>
             ]]>
         </content>
@@ -2838,7 +3012,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:30:54-05:00</updated>
+        <updated>2024-06-06T01:45:55-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/17/nasa-entire-world.jpg" alt="" />
@@ -2854,7 +3028,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="NASA"></script>
+<script src="gisapi.js" reqfederal="NASA"></script>
 </p>
             ]]>
         </content>
@@ -2870,7 +3044,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:31:34-05:00</updated>
+        <updated>2024-06-06T01:45:32-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/16/usda-fs-precipitation.JPG" alt="" />
@@ -2886,7 +3060,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="USDA"></script>
+<script src="gisapi.js" reqfederal="USDA"></script>
 </p>
             ]]>
         </content>
@@ -3193,7 +3367,7 @@
             <category term="US Federal"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:33:01-05:00</updated>
+        <updated>2024-06-06T01:44:49-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/13/gnss-in-field.jpg" alt="" />
@@ -3218,7 +3392,7 @@
 <p>If you would like to search the layers and datasets contained within these sources then check out the best geospatial search engine on the market right now. <a href="https://search.gisdata.io" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><span style="text-decoration: underline;"><strong>GISData.io</strong></span></a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> is a geospatial search engine built by the same team that built this website. It enables you to search for layers and datasets from all of these sources in one place. </span></p>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-fed-api.js" reqfederal="USGS"></script>
+<script src="gisapi.js" reqfederal="USGS"></script>
 </p>
 <h2 data-pm-slice="1 1 []">Conclusion</h2>
 <p>The USGS, a scientific agency of the United States government, is a valuable resource for anyone who needs to know about natural resources in the country. It provides information on everything from earthquakes and volcanoes to sea-level rise. The USGS also produces reports on things such as climate change and hazardous waste disposal sites.</p>
@@ -3360,7 +3534,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-06-05T09:17:00-04:00</updated>
+        <updated>2024-06-06T01:37:56-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/5/kyle-sudu-atlanta-night.jpg" alt="" />
@@ -3390,7 +3564,7 @@
 <h2>List of REST Services:</h2>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-state-api.js" reqstate="Georgia"></script>
+<script src="gisapi.js" reqstate="Georgia"></script>
 </p>
 <h2 data-pm-slice="1 1 []">Conclusion</h2>
 <p>This is the most comprehensive list of geospatial data sources for the state of Georgia. We hope that you find this information useful, and we invite you to <a href="https://opensourcegisdata.com/contact-open-source-gis-data.html">contact us</a> with any questions or comments.</p>
@@ -3408,7 +3582,7 @@
             <category term="United States"/>
             <category term="Data Source"/>
 
-        <updated>2023-11-09T09:37:57-05:00</updated>
+        <updated>2024-06-06T01:37:12-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/4/ryan-parker-miami-aerial.jpg" alt="" />
@@ -3441,7 +3615,7 @@
 <h2>List of REST Services:</h2>
 <div id="restServices"></div>
 <p>
-<script src="cartobin-state-api.js" reqstate="Florida"></script>
+<script src="gisapi.js" reqstate="Florida"></script>
 </p>
 <h2 data-pm-slice="1 1 []">Conclusion</h2>
 <p>This is the most comprehensive list of geospatial data sources for the state of Florida. We hope that you find this information useful, and we invite you to <a href="https://opensourcegisdata.com/contact-open-source-gis-data.html">contact us</a> with any questions or comments.</p>
@@ -3482,36 +3656,6 @@
 <p class="fs-5 mb-4">Real estate agents use a GIS to visualize average home prices across different areas. Urban planners and developers use GIS to outline zones where certain types of buildings and amenities will be placed in cities and neighborhoods. The military uses GIS to plan missions and monitor situations like movements of troops and equipment.</p>
 <h2 class="fw-bolder mb-4 mt-5">What data can be used in a GIS?</h2>
 <p class="fs-5 mb-4">A GIS requires spatial data, or data that is tied to a specific location on Earth. Satellite data is often the first type of data that comes to mind when thinking about GIS. Using satellite data users are able to see what the world looks like the time the images where captured and how it may have changed if there were previous images taken. Polygon data is often used to show country, state, city and municipal boundaries. A line might be used to show a road or a river. A single point or a collection of points might be used to show where events happened or where something is located.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cartobin GIS Servers Web App</title>
-        <author>
-            <name>Parker Dinkins</name>
-        </author>
-        <link href="https://opensourcegisdata.com/cartobin-gis-servers-web-app.html"/>
-        <id>https://opensourcegisdata.com/cartobin-gis-servers-web-app.html</id>
-        <media:content url="https://opensourcegisdata.com/media/posts/8/globe-map.webp" medium="image" />
-            <category term="Resources"/>
-            <category term="About"/>
-
-        <updated>2023-01-20T17:01:51-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://opensourcegisdata.com/media/posts/8/globe-map.webp" alt="" />
-                    What is Cartobin? Cartobin is a web application developed by Ben Millard. He was inspired to create the application by Jeff from mappingsupport.com who created and maintains a very large list of GIS rest servers. The application provides an interface to interact with the list&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://opensourcegisdata.com/media/posts/8/globe-map.webp" class="type:primaryImage" alt="" /></p>
-                <h2 class="fw-bolder mb-4 mt-5">What is Cartobin?</h2>
-<p class="fs-5 mb-4">Cartobin is a web application developed by Ben Millard. He was inspired to create the application by Jeff from mappingsupport.com who created and maintains a very large list of GIS rest servers. The application provides an interface to interact with the list by creating pages for the different categories. There is a State category, a category US Federal sources and another category for miscellaneous sources.</p>
-<h2 class="fw-bolder mb-4 mt-5">Special Thanks to Ben</h2>
-<p class="fs-5 mb-4">I want to give a special thanks to Ben Millard for creating this application and the API that serves the data. After posting on Reddit about the Open Source GIS Data State Index he reached out giving me permission to use the API. I was able to create a short vanilla javascipt script that fetches data from his API and displays it on the <a href="https://opensourcegisdata.com/state/index.html">state pages.</a> This allowed me to easily add hundreds of GIS rest servers to the website for every single state.</p>
-<h2 class="fw-bolder mb-4 mt-5">Plans for the future</h2>
-<p class="fs-5 mb-4">At the time of posting this article I have not yet integrated the Federal data sources from the API in the website. My next course of action is to add the federal sources and the other miscellaneous sources. All of the sources from the API and the list are GIS rest servers. The initial sources published on this website were Geo Portals or geospatial data search engines for different organizations within states. The plan is to integrate the API for the rest servers and continue to add Geo Portals and other miscellaneous sources that are not just rest servers. Beyond just finding and adding sources I will create content around some of the most useful and interesting resources that are recommended to me or that I find.</p>
             ]]>
         </content>
     </entry>
@@ -3650,7 +3794,7 @@
         <media:content url="https://opensourcegisdata.com/media/posts/6/about-us.jpg" medium="image" />
             <category term="About"/>
 
-        <updated>2023-01-25T11:54:15-05:00</updated>
+        <updated>2024-06-06T01:43:13-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://opensourcegisdata.com/media/posts/6/about-us.jpg" alt="" />
@@ -3663,20 +3807,12 @@
                 <h2 class="fw-bolder mb-4 mt-5">Purpose of Open Source GIS Data</h2>
 <p class="fs-5 mb-4">The purpose of this website is to provide a place for people to find and utilize open source GIS data. From local government sources to globally available sources, this is the place to find them and learn how they can be used.</p>
 <p class="fs-5 mb-4">Topography, weather, hydrology, ecology, social, conflict, administrative and many more types of data are at your fingertips here.</p>
-<h2 class="fw-bolder mb-4 mt-5">Special Thanks</h2>
-<div class="card">
-<div class="card-body">
-<blockquote class="blockquote mb-0">
-<p class="fs-5 mb-4">"If I have seen further it is by standing on the shoulders of Giants."</p>
-<footer class="blockquote-footer"><cite title="Source Title">Sir Isaac Newton</cite></footer></blockquote>
-</div>
-</div>
-<p class="fs-5 mb-4">I want to thank Joseph from <a href="https://mappingsupport.com/">mappingsupport.com</a> for curating and maintaining his list of 3000+ ArcGIS rest servers. This list is one of the largest collections of federal, state, and local GIS data sources.</p>
-<p class="fs-5 mb-4">Next I would like to thank Ben Millard from <a href="https://servers.cartobin.com/about">cartobin.com</a> for creating a web application with an API using Joseph's list of sources. Using this API has allowed me to easily add thousands of sources to this website for every state and US Federal Agency.</p>
+<h2>Want to explore layers?</h2>
+<p>Are you looking for a specific layer? Are you tired of digging through different sources to find what you need? </p>
+<p>Start finding the datasets you need by searching 1000s of sources in one place using the <a href="https://galileo.gisdata.io">GISDATA.io Galileo Search Engine</a>. </p>
 <h2 class="fw-bolder mb-4 mt-5">Start Exploring the World Through Different Lenses Using Open Source GIS Data Today</h2>
 <p class="fs-5 mb-4">Unlock new understandings of the world around you by exploring GIS data. GIS data goes beyond boring spreadsheets. View data using free applications or web portals and begin creating your own maps.</p>
 <p class="fs-5 mb-4">You never know what you might find until you start looking. Start by finding data around your local area or a topic you are interested in. Check out the home page for inspiration or click through the categories.</p>
-<p class="fs-5 mb-4">Are you from the United States? Start exploring data sources from your state using the United States <a href="https://opensourcegisdata.com/state/index.html">Data Index</a> by using the map and clicking on your state. Explore the Geo Portals or by using the rest service link directly with you own GIS.</p>
             ]]>
         </content>
     </entry>
